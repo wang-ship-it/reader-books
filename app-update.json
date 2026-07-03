@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
+  "versionCode": 6,
+  "versionName": "0.2.4",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
   "notes": [
-    "阅读进度精确到滚动位置，重新进入可回到上次阅读处。",
-    "新增继续阅读入口、书籍详情页、目录阅读百分比。",
-    "启动静默检查新章，更新中心增加日志和 APK 下载进度。"
+    "章节更新改为每次最多同步 10 章，避免一次拉取过多导致超时。",
+    "更新中心会记录清单检查、下载进度、保存成功和失败位置。",
+    "中途失败后会保留已下载章节，下次检查会从缺失章节继续同步。"
   ]
 }
