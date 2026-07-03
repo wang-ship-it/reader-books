@@ -1,9 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
+  "versionCode": 4,
+  "versionName": "0.2.2",
   "apkUrl": "https://wang-ship-it.github.io/reader-books/apk/app-release.apk",
   "notes": [
-    "更新中心移到我的页面，首页更专注阅读。",
-    "内容更新和应用更新分开展示。"
+    "上一章连续滑动返回时落到上一章结尾。",
+    "移除页面内返回按钮，使用系统返回。",
+    "新增 App 图标。"
   ]
 }
