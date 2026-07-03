@@ -56,6 +56,36 @@ app/src/main/java/com/kaelyn/reader/MainActivity.java
 }
 ```
 
+## 发布新版 APK
+
+App 本体更新使用：
+
+```text
+app-update.json
+```
+
+新版 APK 推荐放到：
+
+```text
+apk/app-release.apk
+```
+
+`app-update.json` 示例：
+
+```json
+{
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "apkUrl": "https://wang-ship-it.github.io/reader-books/apk/app-release.apk",
+  "notes": [
+    "新增滑动续章",
+    "优化联网更新"
+  ]
+}
+```
+
+每次发新版 App 时，`versionCode` 必须比旧版更大，APK 必须使用同一个签名证书。
+
 或者每章直接写完整 `url`：
 
 ```json
