@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
   "versionName": "0.2.3",
-  "apkUrl": "https://wang-ship-it.github.io/reader-books/apk/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
   "notes": [
     "阅读进度精确到滚动位置，重新进入可回到上次阅读处。",
     "新增继续阅读入口、书籍详情页、目录阅读百分比。",
