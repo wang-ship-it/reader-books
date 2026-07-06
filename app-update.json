@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "0.2.6",
+  "versionCode": 9,
+  "versionName": "0.2.7",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
   "notes": [
-    "章节同步改为优先下载 100 章一包，减少大量章节更新时的请求次数。",
-    "线上书库版本变化时会刷新已下载章节，确保修订后的旧章节也能更新。",
-    "本次线上清单已覆盖第 001-1620 章，并提供 17 个章节包。"
+    "修复滚动阅读时普通上下滑动容易误触切章，导致突然跳到上一章底部或下一章顶部的问题。",
+    "恢复阅读进度时会按当前正文高度校正位置，避免旧 scrollY 把页面拉到异常位置。",
+    "保留滑动续章功能，但只有从章首/章尾开始外滑时才触发。"
   ]
 }
