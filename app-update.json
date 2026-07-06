@@ -1,11 +1,11 @@
 {
-  "versionCode": 17,
-  "versionName": "0.4.2",
+  "versionCode": 18,
+  "versionName": "0.4.3",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "0ca69aa4f8c09b3e910571f10b74159ba82915476d07e911ae3523dc4b9920d5",
+  "sha256": "b74d1e8b519ee8b304a49b07d669d7f5c4241b05197e5839073a97f1063a33e5",
   "notes": [
-    "优化书架单书卡片，首页更像一本作品入口。",
-    "打磨作品详情页：主阅读按钮、作品信息和阅读状态更清楚。",
-    "压缩搜索结果与阅读控制层文案，阅读页更干净。"
+    "作品详情页新增最近书签、最近更新和正在读附近目录。",
+    "最近书签支持在详情页直接删除，删除后不打断当前位置。",
+    "全文搜索历史支持单条删除，搜索页更适合长期使用。"
   ]
 }
