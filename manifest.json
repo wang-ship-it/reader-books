@@ -1,6 +1,6 @@
 {
   "book": "葬天神庭",
-  "version": 35,
+  "version": 37,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -8104,6 +8104,7 @@
       "path": "books/葬天神庭/正文/第1620章_台前未判.md"
     }
   ],
+  "chapterCount": 1620,
   "packSize": 100,
   "packs": [
     {
