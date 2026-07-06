@@ -1,11 +1,13 @@
 {
-  "versionCode": 14,
-  "versionName": "0.3.2",
+  "versionCode": 15,
+  "versionName": "0.4.0",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "29b3cb9559201a6920ec1dbb86ec1a0d0946d7675d1fb2cc11cd42f6e2b1b89f",
+  "sha256": "5cc2685d68c2dbac8a8ee13984dc80708a9ef249cdaaa5e63d87139e1d3025fb",
   "notes": [
-    "修复阅读页底部进度误导问题：进度条改为全书进度。",
-    "底部文字改为同时显示全书进度、章节序号和本章进度。",
-    "第一章读到后半段时，不再显示成整本书已读 80% 以上。"
+    "首页升级为作品运营式书架，新增正式封面、最新更新、阅读数据和最近书签。",
+    "书籍详情页新增作品信息、标签、目录、全文搜索和作品设定入口。",
+    "目录新增正序/倒序、已读/未读筛选，并显示新章与缓存状态。",
+    "新增全文搜索，可扫描本地章节、显示摘要并跳转高亮。",
+    "更新中心新增缓存信息和清理缓存入口。"
   ]
 }
