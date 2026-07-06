@@ -1,11 +1,11 @@
 {
-  "versionCode": 18,
-  "versionName": "0.4.3",
+  "versionCode": 19,
+  "versionName": "0.4.4",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "b74d1e8b519ee8b304a49b07d669d7f5c4241b05197e5839073a97f1063a33e5",
+  "sha256": "2ff9d5d28c49f2d22aab4d049a18bc964c089aaf83088702ed9d0af1c660cb51",
   "notes": [
-    "作品详情页新增最近书签、最近更新和正在读附近目录。",
-    "最近书签支持在详情页直接删除，删除后不打断当前位置。",
-    "全文搜索历史支持单条删除，搜索页更适合长期使用。"
+    "阅读设置新增页感选项：音量键翻页可开关，点按区域可切换。",
+    "章节末尾新增下一章入口，滚动和分页阅读都能直接续读。",
+    "优化分页点按逻辑，降低误触翻页带来的打扰。"
   ]
 }
