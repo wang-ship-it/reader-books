@@ -1,13 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "0.3.1",
+  "versionCode": 14,
+  "versionName": "0.3.2",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "52033962481cf9c1c0663050cbf82d6f4ee972d934c55aa9728790ed12e16e26",
+  "sha256": "29b3cb9559201a6920ec1dbb86ec1a0d0946d7675d1fb2cc11cd42f6e2b1b89f",
   "notes": [
-    "发布包切换为正式 release 签名 APK，并在应用内更新时校验 sha256。",
-    "阅读页支持音量键翻页，并预加载上一章/下一章以减少切章等待。",
-    "本章搜索新增上一个/下一个结果跳转。",
-    "首页继续阅读卡片新增今日阅读时长、连续阅读天数和书签数量。",
-    "目录里的最近书签支持删除。"
+    "修复阅读页底部进度误导问题：进度条改为全书进度。",
+    "底部文字改为同时显示全书进度、章节序号和本章进度。",
+    "第一章读到后半段时，不再显示成整本书已读 80% 以上。"
   ]
 }
