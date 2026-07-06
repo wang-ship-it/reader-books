@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
+  "versionCode": 8,
+  "versionName": "0.2.6",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
   "notes": [
-    "小说章节改为全部从线上书库同步，不再使用内置前 50 章作为默认正文。",
+    "章节同步改为优先下载 100 章一包，减少大量章节更新时的请求次数。",
     "线上书库版本变化时会刷新已下载章节，确保修订后的旧章节也能更新。",
-    "本次线上清单已覆盖第 001-1620 章，支持一次性全量同步。"
+    "本次线上清单已覆盖第 001-1620 章，并提供 17 个章节包。"
   ]
 }

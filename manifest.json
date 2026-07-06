@@ -1,6 +1,6 @@
 {
   "book": "葬天神庭",
-  "version": 34,
+  "version": 35,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -8102,6 +8102,145 @@
       "title": "第1620章_台前未判",
       "file": "第1620章_台前未判.md",
       "path": "books/葬天神庭/正文/第1620章_台前未判.md"
+    }
+  ],
+  "packSize": 100,
+  "packs": [
+    {
+      "title": "第001-100章",
+      "start": 1,
+      "end": 100,
+      "count": 100,
+      "file": "pack_0001_0100.json",
+      "path": "books/葬天神庭/packs/pack_0001_0100.json"
+    },
+    {
+      "title": "第101-200章",
+      "start": 101,
+      "end": 200,
+      "count": 100,
+      "file": "pack_0101_0200.json",
+      "path": "books/葬天神庭/packs/pack_0101_0200.json"
+    },
+    {
+      "title": "第201-300章",
+      "start": 201,
+      "end": 300,
+      "count": 100,
+      "file": "pack_0201_0300.json",
+      "path": "books/葬天神庭/packs/pack_0201_0300.json"
+    },
+    {
+      "title": "第301-400章",
+      "start": 301,
+      "end": 400,
+      "count": 100,
+      "file": "pack_0301_0400.json",
+      "path": "books/葬天神庭/packs/pack_0301_0400.json"
+    },
+    {
+      "title": "第401-500章",
+      "start": 401,
+      "end": 500,
+      "count": 100,
+      "file": "pack_0401_0500.json",
+      "path": "books/葬天神庭/packs/pack_0401_0500.json"
+    },
+    {
+      "title": "第501-600章",
+      "start": 501,
+      "end": 600,
+      "count": 100,
+      "file": "pack_0501_0600.json",
+      "path": "books/葬天神庭/packs/pack_0501_0600.json"
+    },
+    {
+      "title": "第601-700章",
+      "start": 601,
+      "end": 700,
+      "count": 100,
+      "file": "pack_0601_0700.json",
+      "path": "books/葬天神庭/packs/pack_0601_0700.json"
+    },
+    {
+      "title": "第701-800章",
+      "start": 701,
+      "end": 800,
+      "count": 100,
+      "file": "pack_0701_0800.json",
+      "path": "books/葬天神庭/packs/pack_0701_0800.json"
+    },
+    {
+      "title": "第801-900章",
+      "start": 801,
+      "end": 900,
+      "count": 100,
+      "file": "pack_0801_0900.json",
+      "path": "books/葬天神庭/packs/pack_0801_0900.json"
+    },
+    {
+      "title": "第901-1000章",
+      "start": 901,
+      "end": 1000,
+      "count": 100,
+      "file": "pack_0901_1000.json",
+      "path": "books/葬天神庭/packs/pack_0901_1000.json"
+    },
+    {
+      "title": "第1001-1100章",
+      "start": 1001,
+      "end": 1100,
+      "count": 100,
+      "file": "pack_1001_1100.json",
+      "path": "books/葬天神庭/packs/pack_1001_1100.json"
+    },
+    {
+      "title": "第1101-1200章",
+      "start": 1101,
+      "end": 1200,
+      "count": 100,
+      "file": "pack_1101_1200.json",
+      "path": "books/葬天神庭/packs/pack_1101_1200.json"
+    },
+    {
+      "title": "第1201-1300章",
+      "start": 1201,
+      "end": 1300,
+      "count": 100,
+      "file": "pack_1201_1300.json",
+      "path": "books/葬天神庭/packs/pack_1201_1300.json"
+    },
+    {
+      "title": "第1301-1400章",
+      "start": 1301,
+      "end": 1400,
+      "count": 100,
+      "file": "pack_1301_1400.json",
+      "path": "books/葬天神庭/packs/pack_1301_1400.json"
+    },
+    {
+      "title": "第1401-1500章",
+      "start": 1401,
+      "end": 1500,
+      "count": 100,
+      "file": "pack_1401_1500.json",
+      "path": "books/葬天神庭/packs/pack_1401_1500.json"
+    },
+    {
+      "title": "第1501-1600章",
+      "start": 1501,
+      "end": 1600,
+      "count": 100,
+      "file": "pack_1501_1600.json",
+      "path": "books/葬天神庭/packs/pack_1501_1600.json"
+    },
+    {
+      "title": "第1601-1620章",
+      "start": 1601,
+      "end": 1620,
+      "count": 20,
+      "file": "pack_1601_1620.json",
+      "path": "books/葬天神庭/packs/pack_1601_1620.json"
     }
   ]
 }
