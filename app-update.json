@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.0",
+  "versionCode": 13,
+  "versionName": "0.3.1",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "261791b6a36ca6747bbbff7c49673630e01b4d8fcec252f56fcc44618dc21bb4",
+  "sha256": "52033962481cf9c1c0663050cbf82d6f4ee972d934c55aa9728790ed12e16e26",
   "notes": [
     "发布包切换为正式 release 签名 APK，并在应用内更新时校验 sha256。",
     "阅读页支持音量键翻页，并预加载上一章/下一章以减少切章等待。",
