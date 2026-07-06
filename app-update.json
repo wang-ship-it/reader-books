@@ -1,13 +1,11 @@
 {
-  "versionCode": 15,
-  "versionName": "0.4.0",
+  "versionCode": 16,
+  "versionName": "0.4.1",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "5cc2685d68c2dbac8a8ee13984dc80708a9ef249cdaaa5e63d87139e1d3025fb",
+  "sha256": "297a7ff8fd83d99dea2b571a1810212aa86c875153cda466cfbd737fa4922b2d",
   "notes": [
-    "首页升级为作品运营式书架，新增正式封面、最新更新、阅读数据和最近书签。",
-    "书籍详情页新增作品信息、标签、目录、全文搜索和作品设定入口。",
-    "目录新增正序/倒序、已读/未读筛选，并显示新章与缓存状态。",
-    "新增全文搜索，可扫描本地章节、显示摘要并跳转高亮。",
-    "更新中心新增缓存信息和清理缓存入口。"
+    "调整书架首页：首页只保留一本书卡片，点击后进入作品详情。",
+    "继续阅读、阅读数据、最新章、书签和全文搜索统一收进作品详情页。",
+    "减少首页信息密度，让入口更像成熟小说 App 的书架。"
   ]
 }
