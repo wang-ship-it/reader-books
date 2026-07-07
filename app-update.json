@@ -1,11 +1,11 @@
 {
-  "versionCode": 19,
-  "versionName": "0.4.4",
+  "versionCode": 20,
+  "versionName": "0.4.5",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "2ff9d5d28c49f2d22aab4d049a18bc964c089aaf83088702ed9d0af1c660cb51",
+  "sha256": "58b946b1fd36653f8f60ae909df81d534dbff7e19e5abce44d4c920bd34a8371",
   "notes": [
-    "阅读设置新增页感选项：音量键翻页可开关，点按区域可切换。",
-    "章节末尾新增下一章入口，滚动和分页阅读都能直接续读。",
-    "优化分页点按逻辑，降低误触翻页带来的打扰。"
+    "更换为《九劫剑骨》正式封面，首页和详情页显示真实封面图。",
+    "内置《九劫剑骨》1-100章，本地安装后可直接阅读。",
+    "同步章节更新包 manifest v5，前30章已按正式章节体量加厚。"
   ]
 }
