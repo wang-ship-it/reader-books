@@ -8,7 +8,7 @@
 
 ```text
 manifest.json
-books/葬天神庭/正文/第051章_待更新.md
+books/九劫剑骨/正文/第011章_待更新.md
 ```
 
 如果你的 Pages 地址是：
@@ -32,7 +32,7 @@ app/src/main/java/com/kaelyn/reader/MainActivity.java
 
 ## 新增章节
 
-1. 把新的 `.md` 章节放到 `books/葬天神庭/正文/`。
+1. 把新的 `.md` 章节放到 `books/九劫剑骨/正文/`。
 2. 在 `manifest.json` 的 `chapters` 里追加一条。
 3. 推送到 GitHub Pages。
 4. 打开 App 首页，点「检查」。
@@ -43,14 +43,14 @@ app/src/main/java/com/kaelyn/reader/MainActivity.java
 
 ```json
 {
-  "book": "葬天神庭",
+  "book": "九劫剑骨",
   "version": 2,
   "baseUrl": "https://你的用户名.github.io/你的仓库名/",
   "chapters": [
     {
-      "title": "第051章_新的试炼",
-      "file": "第051章_新的试炼.md",
-      "path": "books/葬天神庭/正文/第051章_新的试炼.md"
+      "title": "第011章_新的试炼",
+      "file": "第011章_新的试炼.md",
+      "path": "books/九劫剑骨/正文/第011章_新的试炼.md"
     }
   ]
 }
@@ -90,13 +90,13 @@ apk/app-release.apk
 
 ```json
 {
-  "book": "葬天神庭",
+  "book": "九劫剑骨",
   "version": 2,
   "chapters": [
     {
-      "title": "第051章_新的试炼",
-      "file": "第051章_新的试炼.md",
-      "url": "https://你的用户名.github.io/你的仓库名/books/葬天神庭/正文/第051章_新的试炼.md"
+      "title": "第011章_新的试炼",
+      "file": "第011章_新的试炼.md",
+      "url": "https://你的用户名.github.io/你的仓库名/books/九劫剑骨/正文/第011章_新的试炼.md"
     }
   ]
 }
