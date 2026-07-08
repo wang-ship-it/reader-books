@@ -1,6 +1,6 @@
 {
   "book": "九劫剑骨",
-  "version": 17,
+  "version": 18,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -502,9 +502,59 @@
       "title": "第100章_雷骨中成",
       "file": "第100章_雷骨中成.md",
       "path": "books/九劫剑骨/正文/第100章_雷骨中成.md"
+    },
+    {
+      "title": "第101章_云荒候选榜",
+      "file": "第101章_云荒候选榜.md",
+      "path": "books/九劫剑骨/正文/第101章_云荒候选榜.md"
+    },
+    {
+      "title": "第102章_藏书阁外区",
+      "file": "第102章_藏书阁外区.md",
+      "path": "books/九劫剑骨/正文/第102章_藏书阁外区.md"
+    },
+    {
+      "title": "第103章_重压场二层",
+      "file": "第103章_重压场二层.md",
+      "path": "books/九劫剑骨/正文/第103章_重压场二层.md"
+    },
+    {
+      "title": "第104章_林照入队",
+      "file": "第104章_林照入队.md",
+      "path": "books/九劫剑骨/正文/第104章_林照入队.md"
+    },
+    {
+      "title": "第105章_灰鸦岭旧案",
+      "file": "第105章_灰鸦岭旧案.md",
+      "path": "books/九劫剑骨/正文/第105章_灰鸦岭旧案.md"
+    },
+    {
+      "title": "第106章_血衣楼新价",
+      "file": "第106章_血衣楼新价.md",
+      "path": "books/九劫剑骨/正文/第106章_血衣楼新价.md"
+    },
+    {
+      "title": "第107章_出山前夜",
+      "file": "第107章_出山前夜.md",
+      "path": "books/九劫剑骨/正文/第107章_出山前夜.md"
+    },
+    {
+      "title": "第108章_云荒路上",
+      "file": "第108章_云荒路上.md",
+      "path": "books/九劫剑骨/正文/第108章_云荒路上.md"
+    },
+    {
+      "title": "第109章_云荒驿站",
+      "file": "第109章_云荒驿站.md",
+      "path": "books/九劫剑骨/正文/第109章_云荒驿站.md"
+    },
+    {
+      "title": "第110章_灰鸦传信",
+      "file": "第110章_灰鸦传信.md",
+      "path": "books/九劫剑骨/正文/第110章_灰鸦传信.md"
     }
   ],
-  "chapterCount": 100,
+  "chapterCount": 110,
   "packSize": 100,
   "packs": [
     {
@@ -514,6 +564,14 @@
       "count": 100,
       "file": "pack_0001_0100.json",
       "path": "books/九劫剑骨/packs/pack_0001_0100.json"
+    },
+    {
+      "title": "第101-110章",
+      "start": 101,
+      "end": 110,
+      "count": 10,
+      "file": "pack_0101_0110.json",
+      "path": "books/九劫剑骨/packs/pack_0101_0110.json"
     }
   ],
   "cover": "books/九劫剑骨/cover.png"
