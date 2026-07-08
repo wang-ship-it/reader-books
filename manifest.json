@@ -1,6 +1,6 @@
 {
   "book": "九劫剑骨",
-  "version": 20,
+  "version": 21,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -602,9 +602,59 @@
       "title": "第120章_不进矿",
       "file": "第120章_不进矿.md",
       "path": "books/九劫剑骨/正文/第120章_不进矿.md"
+    },
+    {
+      "title": "第121章_蓝符接应",
+      "file": "第121章_蓝符接应.md",
+      "path": "books/九劫剑骨/正文/第121章_蓝符接应.md"
+    },
+    {
+      "title": "第122章_静声入矿",
+      "file": "第122章_静声入矿.md",
+      "path": "books/九劫剑骨/正文/第122章_静声入矿.md"
+    },
+    {
+      "title": "第123章_小芽",
+      "file": "第123章_小芽.md",
+      "path": "books/九劫剑骨/正文/第123章_小芽.md"
+    },
+    {
+      "title": "第124章_剑债",
+      "file": "第124章_剑债.md",
+      "path": "books/九劫剑骨/正文/第124章_剑债.md"
+    },
+    {
+      "title": "第125章_驿站急报",
+      "file": "第125章_驿站急报.md",
+      "path": "books/九劫剑骨/正文/第125章_驿站急报.md"
+    },
+    {
+      "title": "第126章_旧药仓",
+      "file": "第126章_旧药仓.md",
+      "path": "books/九劫剑骨/正文/第126章_旧药仓.md"
+    },
+    {
+      "title": "第127章_沈惊寒的刀痕",
+      "file": "第127章_沈惊寒的刀痕.md",
+      "path": "books/九劫剑骨/正文/第127章_沈惊寒的刀痕.md"
+    },
+    {
+      "title": "第128章_赵无极离宗",
+      "file": "第128章_赵无极离宗.md",
+      "path": "books/九劫剑骨/正文/第128章_赵无极离宗.md"
+    },
+    {
+      "title": "第129章_长老到云荒",
+      "file": "第129章_长老到云荒.md",
+      "path": "books/九劫剑骨/正文/第129章_长老到云荒.md"
+    },
+    {
+      "title": "第130章_三方封证",
+      "file": "第130章_三方封证.md",
+      "path": "books/九劫剑骨/正文/第130章_三方封证.md"
     }
   ],
-  "chapterCount": 120,
+  "chapterCount": 130,
   "packSize": 100,
   "packs": [
     {
@@ -616,12 +666,12 @@
       "path": "books/九劫剑骨/packs/pack_0001_0100.json"
     },
     {
-      "title": "第101-120章",
+      "title": "第101-130章",
       "start": 101,
-      "end": 120,
-      "count": 20,
-      "file": "pack_0101_0120.json",
-      "path": "books/九劫剑骨/packs/pack_0101_0120.json"
+      "end": 130,
+      "count": 30,
+      "file": "pack_0101_0130.json",
+      "path": "books/九劫剑骨/packs/pack_0101_0130.json"
     }
   ],
   "cover": "books/九劫剑骨/cover.png"
