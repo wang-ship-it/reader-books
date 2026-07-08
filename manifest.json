@@ -1,6 +1,6 @@
 {
   "book": "九劫剑骨",
-  "version": 18,
+  "version": 19,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -552,9 +552,59 @@
       "title": "第110章_灰鸦传信",
       "file": "第110章_灰鸦传信.md",
       "path": "books/九劫剑骨/正文/第110章_灰鸦传信.md"
+    },
+    {
+      "title": "第111章_青纹狼妖",
+      "file": "第111章_青纹狼妖.md",
+      "path": "books/九劫剑骨/正文/第111章_青纹狼妖.md"
+    },
+    {
+      "title": "第112章_狼哨之后",
+      "file": "第112章_狼哨之后.md",
+      "path": "books/九劫剑骨/正文/第112章_狼哨之后.md"
+    },
+    {
+      "title": "第113章_采药队遗物",
+      "file": "第113章_采药队遗物.md",
+      "path": "books/九劫剑骨/正文/第113章_采药队遗物.md"
+    },
+    {
+      "title": "第114章_别信带路人",
+      "file": "第114章_别信带路人.md",
+      "path": "books/九劫剑骨/正文/第114章_别信带路人.md"
+    },
+    {
+      "title": "第115章_黑石碎片",
+      "file": "第115章_黑石碎片.md",
+      "path": "books/九劫剑骨/正文/第115章_黑石碎片.md"
+    },
+    {
+      "title": "第116章_黑鸦帮",
+      "file": "第116章_黑鸦帮.md",
+      "path": "books/九劫剑骨/正文/第116章_黑鸦帮.md"
+    },
+    {
+      "title": "第117章_黑石狼王",
+      "file": "第117章_黑石狼王.md",
+      "path": "books/九劫剑骨/正文/第117章_黑石狼王.md"
+    },
+    {
+      "title": "第118章_断哨",
+      "file": "第118章_断哨.md",
+      "path": "books/九劫剑骨/正文/第118章_断哨.md"
+    },
+    {
+      "title": "第119章_旧矿外门",
+      "file": "第119章_旧矿外门.md",
+      "path": "books/九劫剑骨/正文/第119章_旧矿外门.md"
+    },
+    {
+      "title": "第120章_不进矿",
+      "file": "第120章_不进矿.md",
+      "path": "books/九劫剑骨/正文/第120章_不进矿.md"
     }
   ],
-  "chapterCount": 110,
+  "chapterCount": 120,
   "packSize": 100,
   "packs": [
     {
@@ -566,12 +616,12 @@
       "path": "books/九劫剑骨/packs/pack_0001_0100.json"
     },
     {
-      "title": "第101-110章",
+      "title": "第101-120章",
       "start": 101,
-      "end": 110,
-      "count": 10,
-      "file": "pack_0101_0110.json",
-      "path": "books/九劫剑骨/packs/pack_0101_0110.json"
+      "end": 120,
+      "count": 20,
+      "file": "pack_0101_0120.json",
+      "path": "books/九劫剑骨/packs/pack_0101_0120.json"
     }
   ],
   "cover": "books/九劫剑骨/cover.png"
