@@ -1,6 +1,6 @@
 {
   "book": "九劫剑骨",
-  "version": 24,
+  "version": 25,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -708,20 +708,20 @@
   "packSize": 100,
   "packs": [
     {
-      "title": "第001-100章",
       "start": 1,
       "end": 100,
       "count": 100,
-      "file": "pack_0001_0100.json",
-      "path": "books/九劫剑骨/packs/pack_0001_0100.json"
+      "file": "books/九劫剑骨/packs/pack_0001_0100.json",
+      "sha256": "76124adfaf4a601b63f55b5a4d6abbd6d0985a8b3dd8d805cf35649a2849ead3",
+      "bytes": 515074
     },
     {
-      "title": "第101-140章",
       "start": 101,
       "end": 140,
       "count": 40,
-      "file": "pack_0101_0140.json",
-      "path": "books/九劫剑骨/packs/pack_0101_0140.json"
+      "file": "books/九劫剑骨/packs/pack_0101_0140.json",
+      "sha256": "57f5d9c6ec9a46b104afa26ac60ca6e9e5931c113e23fa37adffd0bdd41d039d",
+      "bytes": 220935
     }
   ],
   "cover": "books/九劫剑骨/cover.png"
