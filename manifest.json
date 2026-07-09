@@ -1,6 +1,6 @@
 {
   "book": "九劫剑骨",
-  "version": 21,
+  "version": 22,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -652,9 +652,59 @@
       "title": "第130章_三方封证",
       "file": "第130章_三方封证.md",
       "path": "books/九劫剑骨/正文/第130章_三方封证.md"
+    },
+    {
+      "title": "第131章_三日养剑",
+      "file": "第131章_三日养剑.md",
+      "path": "books/九劫剑骨/正文/第131章_三日养剑.md"
+    },
+    {
+      "title": "第132章_鸦尾沟",
+      "file": "第132章_鸦尾沟.md",
+      "path": "books/九劫剑骨/正文/第132章_鸦尾沟.md"
+    },
+    {
+      "title": "第133章_月白斗笠",
+      "file": "第133章_月白斗笠.md",
+      "path": "books/九劫剑骨/正文/第133章_月白斗笠.md"
+    },
+    {
+      "title": "第134章_残群换首",
+      "file": "第134章_残群换首.md",
+      "path": "books/九劫剑骨/正文/第134章_残群换首.md"
+    },
+    {
+      "title": "第135章_废猎道",
+      "file": "第135章_废猎道.md",
+      "path": "books/九劫剑骨/正文/第135章_废猎道.md"
+    },
+    {
+      "title": "第136章_三哨首狼",
+      "file": "第136章_三哨首狼.md",
+      "path": "books/九劫剑骨/正文/第136章_三哨首狼.md"
+    },
+    {
+      "title": "第137章_月华破雾",
+      "file": "第137章_月华破雾.md",
+      "path": "books/九劫剑骨/正文/第137章_月华破雾.md"
+    },
+    {
+      "title": "第138章_首狼断哨",
+      "file": "第138章_首狼断哨.md",
+      "path": "books/九劫剑骨/正文/第138章_首狼断哨.md"
+    },
+    {
+      "title": "第139章_白石坡血线",
+      "file": "第139章_白石坡血线.md",
+      "path": "books/九劫剑骨/正文/第139章_白石坡血线.md"
+    },
+    {
+      "title": "第140章_云荒秘境令",
+      "file": "第140章_云荒秘境令.md",
+      "path": "books/九劫剑骨/正文/第140章_云荒秘境令.md"
     }
   ],
-  "chapterCount": 130,
+  "chapterCount": 140,
   "packSize": 100,
   "packs": [
     {
@@ -666,12 +716,12 @@
       "path": "books/九劫剑骨/packs/pack_0001_0100.json"
     },
     {
-      "title": "第101-130章",
+      "title": "第101-140章",
       "start": 101,
-      "end": 130,
-      "count": 30,
-      "file": "pack_0101_0130.json",
-      "path": "books/九劫剑骨/packs/pack_0101_0130.json"
+      "end": 140,
+      "count": 40,
+      "file": "pack_0101_0140.json",
+      "path": "books/九劫剑骨/packs/pack_0101_0140.json"
     }
   ],
   "cover": "books/九劫剑骨/cover.png"
