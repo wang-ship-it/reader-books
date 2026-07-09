@@ -1,6 +1,6 @@
 {
   "book": "九劫剑骨",
-  "version": 25,
+  "version": 26,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -712,8 +712,8 @@
       "end": 100,
       "count": 100,
       "file": "books/九劫剑骨/packs/pack_0001_0100.json",
-      "sha256": "76124adfaf4a601b63f55b5a4d6abbd6d0985a8b3dd8d805cf35649a2849ead3",
-      "bytes": 515074
+      "sha256": "0b031e34f6efc1cbe69181093405aefa7afabb8dee698ddfe8b8b113d366b179",
+      "bytes": 511746
     },
     {
       "start": 101,
