@@ -1,6 +1,6 @@
 {
   "book": "九劫剑骨",
-  "version": 27,
+  "version": 28,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -702,9 +702,59 @@
       "title": "第140章_云荒秘境令",
       "file": "第140章_云荒秘境令.md",
       "path": "books/九劫剑骨/正文/第140章_云荒秘境令.md"
+    },
+    {
+      "title": "第141章_封雷七日",
+      "file": "第141章_封雷七日.md",
+      "path": "books/九劫剑骨/正文/第141章_封雷七日.md"
+    },
+    {
+      "title": "第142章_归宗名单",
+      "file": "第142章_归宗名单.md",
+      "path": "books/九劫剑骨/正文/第142章_归宗名单.md"
+    },
+    {
+      "title": "第143章_剑不出鞘",
+      "file": "第143章_剑不出鞘.md",
+      "path": "books/九劫剑骨/正文/第143章_剑不出鞘.md"
+    },
+    {
+      "title": "第144章_入境三条",
+      "file": "第144章_入境三条.md",
+      "path": "books/九劫剑骨/正文/第144章_入境三条.md"
+    },
+    {
+      "title": "第145章_石门错位",
+      "file": "第145章_石门错位.md",
+      "path": "books/九劫剑骨/正文/第145章_石门错位.md"
+    },
+    {
+      "title": "第146章_锈剑黑藤",
+      "file": "第146章_锈剑黑藤.md",
+      "path": "books/九劫剑骨/正文/第146章_锈剑黑藤.md"
+    },
+    {
+      "title": "第147章_倒悬剑林",
+      "file": "第147章_倒悬剑林.md",
+      "path": "books/九劫剑骨/正文/第147章_倒悬剑林.md"
+    },
+    {
+      "title": "第148章_阴水月草",
+      "file": "第148章_阴水月草.md",
+      "path": "books/九劫剑骨/正文/第148章_阴水月草.md"
+    },
+    {
+      "title": "第149章_铁背猿王",
+      "file": "第149章_铁背猿王.md",
+      "path": "books/九劫剑骨/正文/第149章_铁背猿王.md"
+    },
+    {
+      "title": "第150章_谷下剑鸣",
+      "file": "第150章_谷下剑鸣.md",
+      "path": "books/九劫剑骨/正文/第150章_谷下剑鸣.md"
     }
   ],
-  "chapterCount": 140,
+  "chapterCount": 150,
   "packSize": 100,
   "packs": [
     {
@@ -717,11 +767,11 @@
     },
     {
       "start": 101,
-      "end": 140,
-      "count": 40,
-      "file": "books/九劫剑骨/packs/pack_0101_0140.json",
-      "sha256": "167fc5f617605401f653b6f308b379ab44d625f5de912f014ab792aafc22b7c2",
-      "bytes": 213899
+      "end": 150,
+      "count": 50,
+      "file": "books/九劫剑骨/packs/pack_0101_0150.json",
+      "sha256": "9c46df8de149f54af38f3e5fd5e376146e50ed526d704facb7f8a55291000cf6",
+      "bytes": 267560
     }
   ],
   "cover": "books/九劫剑骨/cover.png"
