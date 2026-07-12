@@ -1,6 +1,6 @@
 {
   "book": "九劫剑骨",
-  "version": 38,
+  "version": 39,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "chapters": [
     {
@@ -772,5 +772,19 @@
       "sha256": "5c9101c01a2b89e90f52b8e5fb9d99cb09f9d634ada5ac5872c84064d82f01e8"
     }
   ],
-  "cover": "books/九劫剑骨/cover.png"
+  "cover": "books/九劫剑骨/cover.png",
+  "mangaCover": "books/九劫剑骨/漫画/cover.png",
+  "comics": [
+    {
+      "season": 1,
+      "cover": "books/九劫剑骨/漫画/cover.png",
+      "issues": [
+        "books/九劫剑骨/漫画/第001话_零响废脉/",
+        "books/九劫剑骨/漫画/第002话_少主令碎/",
+        "books/九劫剑骨/漫画/第003话_换骨倒计时/",
+        "books/九劫剑骨/漫画/第004话_后山剑冢/",
+        "books/九劫剑骨/漫画/第005话_断剑师傅/"
+      ]
+    }
+  ]
 }
