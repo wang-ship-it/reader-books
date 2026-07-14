@@ -1,408 +1,500 @@
 {
   "book": "祖师殿里供的是我",
-  "version": 1,
+  "version": 2,
   "baseUrl": "https://wang-ship-it.github.io/reader-books/",
   "cover": "books/祖师殿里供的是我/cover.png",
   "chapters": [
     {
       "title": "第001章_祖师殿里供的是我",
       "file": "第001章_祖师殿里供的是我.md",
-      "path": "books/祖师殿里供的是我/正文/第001章_祖师殿里供的是我.md"
+      "path": "books/祖师殿里供的是我/正文/第001章_祖师殿里供的是我.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC001%E7%AB%A0_%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91.md"
     },
     {
       "title": "第002章_我的剑为什么拿反了",
       "file": "第002章_我的剑为什么拿反了.md",
-      "path": "books/祖师殿里供的是我/正文/第002章_我的剑为什么拿反了.md"
+      "path": "books/祖师殿里供的是我/正文/第002章_我的剑为什么拿反了.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC002%E7%AB%A0_%E6%88%91%E7%9A%84%E5%89%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%BF%E5%8F%8D%E4%BA%86.md"
     },
     {
       "title": "第003章_你拿我的遗训压我",
       "file": "第003章_你拿我的遗训压我.md",
-      "path": "books/祖师殿里供的是我/正文/第003章_你拿我的遗训压我.md"
+      "path": "books/祖师殿里供的是我/正文/第003章_你拿我的遗训压我.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC003%E7%AB%A0_%E4%BD%A0%E6%8B%BF%E6%88%91%E7%9A%84%E9%81%97%E8%AE%AD%E5%8E%8B%E6%88%91.md"
     },
     {
       "title": "第004章_一碗药钱",
       "file": "第004章_一碗药钱.md",
-      "path": "books/祖师殿里供的是我/正文/第004章_一碗药钱.md"
+      "path": "books/祖师殿里供的是我/正文/第004章_一碗药钱.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC004%E7%AB%A0_%E4%B8%80%E7%A2%97%E8%8D%AF%E9%92%B1.md"
     },
     {
       "title": "第005章_暗格少了一样东西",
       "file": "第005章_暗格少了一样东西.md",
-      "path": "books/祖师殿里供的是我/正文/第005章_暗格少了一样东西.md"
+      "path": "books/祖师殿里供的是我/正文/第005章_暗格少了一样东西.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC005%E7%AB%A0_%E6%9A%97%E6%A0%BC%E5%B0%91%E4%BA%86%E4%B8%80%E6%A0%B7%E4%B8%9C%E8%A5%BF.md"
     },
     {
       "title": "第006章_祖师不保佑赌徒",
       "file": "第006章_祖师不保佑赌徒.md",
-      "path": "books/祖师殿里供的是我/正文/第006章_祖师不保佑赌徒.md"
+      "path": "books/祖师殿里供的是我/正文/第006章_祖师不保佑赌徒.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC006%E7%AB%A0_%E7%A5%96%E5%B8%88%E4%B8%8D%E4%BF%9D%E4%BD%91%E8%B5%8C%E5%BE%92.md"
     },
     {
       "title": "第007章_偷丹的人回来了",
       "file": "第007章_偷丹的人回来了.md",
-      "path": "books/祖师殿里供的是我/正文/第007章_偷丹的人回来了.md"
+      "path": "books/祖师殿里供的是我/正文/第007章_偷丹的人回来了.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC007%E7%AB%A0_%E5%81%B7%E4%B8%B9%E7%9A%84%E4%BA%BA%E5%9B%9E%E6%9D%A5%E4%BA%86.md"
     },
     {
       "title": "第008章_执法堂的苏晚照",
       "file": "第008章_执法堂的苏晚照.md",
-      "path": "books/祖师殿里供的是我/正文/第008章_执法堂的苏晚照.md"
+      "path": "books/祖师殿里供的是我/正文/第008章_执法堂的苏晚照.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC008%E7%AB%A0_%E6%89%A7%E6%B3%95%E5%A0%82%E7%9A%84%E8%8B%8F%E6%99%9A%E7%85%A7.md"
     },
     {
       "title": "第009章_三堂会审",
       "file": "第009章_三堂会审.md",
-      "path": "books/祖师殿里供的是我/正文/第009章_三堂会审.md"
+      "path": "books/祖师殿里供的是我/正文/第009章_三堂会审.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC009%E7%AB%A0_%E4%B8%89%E5%A0%82%E4%BC%9A%E5%AE%A1.md"
     },
     {
       "title": "第010章_祖师面前验祖训",
       "file": "第010章_祖师面前验祖训.md",
-      "path": "books/祖师殿里供的是我/正文/第010章_祖师面前验祖训.md"
+      "path": "books/祖师殿里供的是我/正文/第010章_祖师面前验祖训.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC010%E7%AB%A0_%E7%A5%96%E5%B8%88%E9%9D%A2%E5%89%8D%E9%AA%8C%E7%A5%96%E8%AE%AD.md"
     },
     {
       "title": "第011章_扫地弟子也配练剑",
       "file": "第011章_扫地弟子也配练剑.md",
-      "path": "books/祖师殿里供的是我/正文/第011章_扫地弟子也配练剑.md"
+      "path": "books/祖师殿里供的是我/正文/第011章_扫地弟子也配练剑.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC011%E7%AB%A0_%E6%89%AB%E5%9C%B0%E5%BC%9F%E5%AD%90%E4%B9%9F%E9%85%8D%E7%BB%83%E5%89%91.md"
     },
     {
       "title": "第012章_你的剑少了一寸",
       "file": "第012章_你的剑少了一寸.md",
-      "path": "books/祖师殿里供的是我/正文/第012章_你的剑少了一寸.md"
+      "path": "books/祖师殿里供的是我/正文/第012章_你的剑少了一寸.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC012%E7%AB%A0_%E4%BD%A0%E7%9A%84%E5%89%91%E5%B0%91%E4%BA%86%E4%B8%80%E5%AF%B8.md"
     },
     {
       "title": "第013章_一招换一顿饭",
       "file": "第013章_一招换一顿饭.md",
-      "path": "books/祖师殿里供的是我/正文/第013章_一招换一顿饭.md"
+      "path": "books/祖师殿里供的是我/正文/第013章_一招换一顿饭.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC013%E7%AB%A0_%E4%B8%80%E6%8B%9B%E6%8D%A2%E4%B8%80%E9%A1%BF%E9%A5%AD.md"
     },
     {
       "title": "第014章_被撕掉的那一页",
       "file": "第014章_被撕掉的那一页.md",
-      "path": "books/祖师殿里供的是我/正文/第014章_被撕掉的那一页.md"
+      "path": "books/祖师殿里供的是我/正文/第014章_被撕掉的那一页.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC014%E7%AB%A0_%E8%A2%AB%E6%92%95%E6%8E%89%E7%9A%84%E9%82%A3%E4%B8%80%E9%A1%B5.md"
     },
     {
       "title": "第015章_援军从来没有出发",
       "file": "第015章_援军从来没有出发.md",
-      "path": "books/祖师殿里供的是我/正文/第015章_援军从来没有出发.md"
+      "path": "books/祖师殿里供的是我/正文/第015章_援军从来没有出发.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC015%E7%AB%A0_%E6%8F%B4%E5%86%9B%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E5%87%BA%E5%8F%91.md"
     },
     {
       "title": "第016章_外门小考提前",
       "file": "第016章_外门小考提前.md",
-      "path": "books/祖师殿里供的是我/正文/第016章_外门小考提前.md"
+      "path": "books/祖师殿里供的是我/正文/第016章_外门小考提前.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC016%E7%AB%A0_%E5%A4%96%E9%97%A8%E5%B0%8F%E8%80%83%E6%8F%90%E5%89%8D.md"
     },
     {
       "title": "第017章_三天够了",
       "file": "第017章_三天够了.md",
-      "path": "books/祖师殿里供的是我/正文/第017章_三天够了.md"
+      "path": "books/祖师殿里供的是我/正文/第017章_三天够了.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC017%E7%AB%A0_%E4%B8%89%E5%A4%A9%E5%A4%9F%E4%BA%86.md"
     },
     {
       "title": "第018章_一炷香打十个",
       "file": "第018章_一炷香打十个.md",
-      "path": "books/祖师殿里供的是我/正文/第018章_一炷香打十个.md"
+      "path": "books/祖师殿里供的是我/正文/第018章_一炷香打十个.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC018%E7%AB%A0_%E4%B8%80%E7%82%B7%E9%A6%99%E6%89%93%E5%8D%81%E4%B8%AA.md"
     },
     {
       "title": "第019章_这招是谁教你的",
       "file": "第019章_这招是谁教你的.md",
-      "path": "books/祖师殿里供的是我/正文/第019章_这招是谁教你的.md"
+      "path": "books/祖师殿里供的是我/正文/第019章_这招是谁教你的.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC019%E7%AB%A0_%E8%BF%99%E6%8B%9B%E6%98%AF%E8%B0%81%E6%95%99%E4%BD%A0%E7%9A%84.md"
     },
     {
       "title": "第020章_祖师的剑",
       "file": "第020章_祖师的剑.md",
-      "path": "books/祖师殿里供的是我/正文/第020章_祖师的剑.md"
+      "path": "books/祖师殿里供的是我/正文/第020章_祖师的剑.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC020%E7%AB%A0_%E7%A5%96%E5%B8%88%E7%9A%84%E5%89%91.md"
     },
     {
       "title": "第021章_五百灵石是谁押的",
       "file": "第021章_五百灵石是谁押的.md",
-      "path": "books/祖师殿里供的是我/正文/第021章_五百灵石是谁押的.md"
+      "path": "books/祖师殿里供的是我/正文/第021章_五百灵石是谁押的.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC021%E7%AB%A0_%E4%BA%94%E7%99%BE%E7%81%B5%E7%9F%B3%E6%98%AF%E8%B0%81%E6%8A%BC%E7%9A%84.md"
     },
     {
       "title": "第022章_旧兵房里的无名剑",
       "file": "第022章_旧兵房里的无名剑.md",
-      "path": "books/祖师殿里供的是我/正文/第022章_旧兵房里的无名剑.md"
+      "path": "books/祖师殿里供的是我/正文/第022章_旧兵房里的无名剑.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC022%E7%AB%A0_%E6%97%A7%E5%85%B5%E6%88%BF%E9%87%8C%E7%9A%84%E6%97%A0%E5%90%8D%E5%89%91.md"
     },
     {
       "title": "第023章_一剑入前五百",
       "file": "第023章_一剑入前五百.md",
-      "path": "books/祖师殿里供的是我/正文/第023章_一剑入前五百.md"
+      "path": "books/祖师殿里供的是我/正文/第023章_一剑入前五百.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC023%E7%AB%A0_%E4%B8%80%E5%89%91%E5%85%A5%E5%89%8D%E4%BA%94%E7%99%BE.md"
     },
     {
       "title": "第024章_丹峰来的姑娘",
       "file": "第024章_丹峰来的姑娘.md",
-      "path": "books/祖师殿里供的是我/正文/第024章_丹峰来的姑娘.md"
+      "path": "books/祖师殿里供的是我/正文/第024章_丹峰来的姑娘.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC024%E7%AB%A0_%E4%B8%B9%E5%B3%B0%E6%9D%A5%E7%9A%84%E5%A7%91%E5%A8%98.md"
     },
     {
       "title": "第025章_废丹不是废丹",
       "file": "第025章_废丹不是废丹.md",
-      "path": "books/祖师殿里供的是我/正文/第025章_废丹不是废丹.md"
+      "path": "books/祖师殿里供的是我/正文/第025章_废丹不是废丹.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC025%E7%AB%A0_%E5%BA%9F%E4%B8%B9%E4%B8%8D%E6%98%AF%E5%BA%9F%E4%B8%B9.md"
     },
     {
       "title": "第026章_剑碑上的第十四痕",
       "file": "第026章_剑碑上的第十四痕.md",
-      "path": "books/祖师殿里供的是我/正文/第026章_剑碑上的第十四痕.md"
+      "path": "books/祖师殿里供的是我/正文/第026章_剑碑上的第十四痕.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC026%E7%AB%A0_%E5%89%91%E7%A2%91%E4%B8%8A%E7%9A%84%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%97%95.md"
     },
     {
       "title": "第027章_谁改了祖师的剑",
       "file": "第027章_谁改了祖师的剑.md",
-      "path": "books/祖师殿里供的是我/正文/第027章_谁改了祖师的剑.md"
+      "path": "books/祖师殿里供的是我/正文/第027章_谁改了祖师的剑.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC027%E7%AB%A0_%E8%B0%81%E6%94%B9%E4%BA%86%E7%A5%96%E5%B8%88%E7%9A%84%E5%89%91.md"
     },
     {
       "title": "第028章_北阵门亮了",
       "file": "第028章_北阵门亮了.md",
-      "path": "books/祖师殿里供的是我/正文/第028章_北阵门亮了.md"
+      "path": "books/祖师殿里供的是我/正文/第028章_北阵门亮了.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC028%E7%AB%A0_%E5%8C%97%E9%98%B5%E9%97%A8%E4%BA%AE%E4%BA%86.md"
     },
     {
       "title": "第029章_正门不能走",
       "file": "第029章_正门不能走.md",
-      "path": "books/祖师殿里供的是我/正文/第029章_正门不能走.md"
+      "path": "books/祖师殿里供的是我/正文/第029章_正门不能走.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC029%E7%AB%A0_%E6%AD%A3%E9%97%A8%E4%B8%8D%E8%83%BD%E8%B5%B0.md"
     },
     {
       "title": "第030章_祖师令听我号令",
       "file": "第030章_祖师令听我号令.md",
-      "path": "books/祖师殿里供的是我/正文/第030章_祖师令听我号令.md"
+      "path": "books/祖师殿里供的是我/正文/第030章_祖师令听我号令.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC030%E7%AB%A0_%E7%A5%96%E5%B8%88%E4%BB%A4%E5%90%AC%E6%88%91%E5%8F%B7%E4%BB%A4.md"
     },
     {
       "title": "第031章_师尊亲启",
       "file": "第031章_师尊亲启.md",
-      "path": "books/祖师殿里供的是我/正文/第031章_师尊亲启.md"
+      "path": "books/祖师殿里供的是我/正文/第031章_师尊亲启.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC031%E7%AB%A0_%E5%B8%88%E5%B0%8A%E4%BA%B2%E5%90%AF.md"
     },
     {
       "title": "第032章_宗主召见",
       "file": "第032章_宗主召见.md",
-      "path": "books/祖师殿里供的是我/正文/第032章_宗主召见.md"
+      "path": "books/祖师殿里供的是我/正文/第032章_宗主召见.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC032%E7%AB%A0_%E5%AE%97%E4%B8%BB%E5%8F%AC%E8%A7%81.md"
     },
     {
       "title": "第033章_师尊喝过的茶",
       "file": "第033章_师尊喝过的茶.md",
-      "path": "books/祖师殿里供的是我/正文/第033章_师尊喝过的茶.md"
+      "path": "books/祖师殿里供的是我/正文/第033章_师尊喝过的茶.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC033%E7%AB%A0_%E5%B8%88%E5%B0%8A%E5%96%9D%E8%BF%87%E7%9A%84%E8%8C%B6.md"
     },
     {
       "title": "第034章_半封旧信",
       "file": "第034章_半封旧信.md",
-      "path": "books/祖师殿里供的是我/正文/第034章_半封旧信.md"
+      "path": "books/祖师殿里供的是我/正文/第034章_半封旧信.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC034%E7%AB%A0_%E5%8D%8A%E5%B0%81%E6%97%A7%E4%BF%A1.md"
     },
     {
       "title": "第035章_祖师像该换了",
       "file": "第035章_祖师像该换了.md",
-      "path": "books/祖师殿里供的是我/正文/第035章_祖师像该换了.md"
+      "path": "books/祖师殿里供的是我/正文/第035章_祖师像该换了.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC035%E7%AB%A0_%E7%A5%96%E5%B8%88%E5%83%8F%E8%AF%A5%E6%8D%A2%E4%BA%86.md"
     },
     {
       "title": "第036章_大长老回山",
       "file": "第036章_大长老回山.md",
-      "path": "books/祖师殿里供的是我/正文/第036章_大长老回山.md"
+      "path": "books/祖师殿里供的是我/正文/第036章_大长老回山.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC036%E7%AB%A0_%E5%A4%A7%E9%95%BF%E8%80%81%E5%9B%9E%E5%B1%B1.md"
     },
     {
       "title": "第037章_先查救人的罪",
       "file": "第037章_先查救人的罪.md",
-      "path": "books/祖师殿里供的是我/正文/第037章_先查救人的罪.md"
+      "path": "books/祖师殿里供的是我/正文/第037章_先查救人的罪.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC037%E7%AB%A0_%E5%85%88%E6%9F%A5%E6%95%91%E4%BA%BA%E7%9A%84%E7%BD%AA.md"
     },
     {
       "title": "第038章_十二长老会审",
       "file": "第038章_十二长老会审.md",
-      "path": "books/祖师殿里供的是我/正文/第038章_十二长老会审.md"
+      "path": "books/祖师殿里供的是我/正文/第038章_十二长老会审.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC038%E7%AB%A0_%E5%8D%81%E4%BA%8C%E9%95%BF%E8%80%81%E4%BC%9A%E5%AE%A1.md"
     },
     {
       "title": "第039章_谁动了宗主印",
       "file": "第039章_谁动了宗主印.md",
-      "path": "books/祖师殿里供的是我/正文/第039章_谁动了宗主印.md"
+      "path": "books/祖师殿里供的是我/正文/第039章_谁动了宗主印.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC039%E7%AB%A0_%E8%B0%81%E5%8A%A8%E4%BA%86%E5%AE%97%E4%B8%BB%E5%8D%B0.md"
     },
     {
       "title": "第040章_第三场排名战",
       "file": "第040章_第三场排名战.md",
-      "path": "books/祖师殿里供的是我/正文/第040章_第三场排名战.md"
+      "path": "books/祖师殿里供的是我/正文/第040章_第三场排名战.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC040%E7%AB%A0_%E7%AC%AC%E4%B8%89%E5%9C%BA%E6%8E%92%E5%90%8D%E6%88%98.md"
     },
     {
       "title": "第041章_借你一百息",
       "file": "第041章_借你一百息.md",
-      "path": "books/祖师殿里供的是我/正文/第041章_借你一百息.md"
+      "path": "books/祖师殿里供的是我/正文/第041章_借你一百息.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC041%E7%AB%A0_%E5%80%9F%E4%BD%A0%E4%B8%80%E7%99%BE%E6%81%AF.md"
     },
     {
       "title": "第042章_排名二百八十八",
       "file": "第042章_排名二百八十八.md",
-      "path": "books/祖师殿里供的是我/正文/第042章_排名二百八十八.md"
+      "path": "books/祖师殿里供的是我/正文/第042章_排名二百八十八.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC042%E7%AB%A0_%E6%8E%92%E5%90%8D%E4%BA%8C%E7%99%BE%E5%85%AB%E5%8D%81%E5%85%AB.md"
     },
     {
       "title": "第043章_押注的人来取钱了",
       "file": "第043章_押注的人来取钱了.md",
-      "path": "books/祖师殿里供的是我/正文/第043章_押注的人来取钱了.md"
+      "path": "books/祖师殿里供的是我/正文/第043章_押注的人来取钱了.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC043%E7%AB%A0_%E6%8A%BC%E6%B3%A8%E7%9A%84%E4%BA%BA%E6%9D%A5%E5%8F%96%E9%92%B1%E4%BA%86.md"
     },
     {
       "title": "第044章_宁小川的第七剑",
       "file": "第044章_宁小川的第七剑.md",
-      "path": "books/祖师殿里供的是我/正文/第044章_宁小川的第七剑.md"
+      "path": "books/祖师殿里供的是我/正文/第044章_宁小川的第七剑.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC044%E7%AB%A0_%E5%AE%81%E5%B0%8F%E5%B7%9D%E7%9A%84%E7%AC%AC%E4%B8%83%E5%89%91.md"
     },
     {
       "title": "第045章_唐梨不炼废丹",
       "file": "第045章_唐梨不炼废丹.md",
-      "path": "books/祖师殿里供的是我/正文/第045章_唐梨不炼废丹.md"
+      "path": "books/祖师殿里供的是我/正文/第045章_唐梨不炼废丹.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC045%E7%AB%A0_%E5%94%90%E6%A2%A8%E4%B8%8D%E7%82%BC%E5%BA%9F%E4%B8%B9.md"
     },
     {
       "title": "第046章_淬体五重",
       "file": "第046章_淬体五重.md",
-      "path": "books/祖师殿里供的是我/正文/第046章_淬体五重.md"
+      "path": "books/祖师殿里供的是我/正文/第046章_淬体五重.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC046%E7%AB%A0_%E6%B7%AC%E4%BD%93%E4%BA%94%E9%87%8D.md"
     },
     {
       "title": "第047章_前两百的门槛",
       "file": "第047章_前两百的门槛.md",
-      "path": "books/祖师殿里供的是我/正文/第047章_前两百的门槛.md"
+      "path": "books/祖师殿里供的是我/正文/第047章_前两百的门槛.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC047%E7%AB%A0_%E5%89%8D%E4%B8%A4%E7%99%BE%E7%9A%84%E9%97%A8%E6%A7%9B.md"
     },
     {
       "title": "第048章_不拔剑也能赢",
       "file": "第048章_不拔剑也能赢.md",
-      "path": "books/祖师殿里供的是我/正文/第048章_不拔剑也能赢.md"
+      "path": "books/祖师殿里供的是我/正文/第048章_不拔剑也能赢.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC048%E7%AB%A0_%E4%B8%8D%E6%8B%94%E5%89%91%E4%B9%9F%E8%83%BD%E8%B5%A2.md"
     },
     {
       "title": "第049章_百名资格战",
       "file": "第049章_百名资格战.md",
-      "path": "books/祖师殿里供的是我/正文/第049章_百名资格战.md"
+      "path": "books/祖师殿里供的是我/正文/第049章_百名资格战.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC049%E7%AB%A0_%E7%99%BE%E5%90%8D%E8%B5%84%E6%A0%BC%E6%88%98.md"
     },
     {
       "title": "第050章_塔门为谁开",
       "file": "第050章_塔门为谁开.md",
-      "path": "books/祖师殿里供的是我/正文/第050章_塔门为谁开.md"
+      "path": "books/祖师殿里供的是我/正文/第050章_塔门为谁开.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC050%E7%AB%A0_%E5%A1%94%E9%97%A8%E4%B8%BA%E8%B0%81%E5%BC%80.md"
     },
     {
       "title": "第051章_第一层没有灵气",
       "file": "第051章_第一层没有灵气.md",
-      "path": "books/祖师殿里供的是我/正文/第051章_第一层没有灵气.md"
+      "path": "books/祖师殿里供的是我/正文/第051章_第一层没有灵气.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC051%E7%AB%A0_%E7%AC%AC%E4%B8%80%E5%B1%82%E6%B2%A1%E6%9C%89%E7%81%B5%E6%B0%94.md"
     },
     {
       "title": "第052章_这座塔我修过",
       "file": "第052章_这座塔我修过.md",
-      "path": "books/祖师殿里供的是我/正文/第052章_这座塔我修过.md"
+      "path": "books/祖师殿里供的是我/正文/第052章_这座塔我修过.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC052%E7%AB%A0_%E8%BF%99%E5%BA%A7%E5%A1%94%E6%88%91%E4%BF%AE%E8%BF%87.md"
     },
     {
       "title": "第053章_塔明明有八层",
       "file": "第053章_塔明明有八层.md",
-      "path": "books/祖师殿里供的是我/正文/第053章_塔明明有八层.md"
+      "path": "books/祖师殿里供的是我/正文/第053章_塔明明有八层.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC053%E7%AB%A0_%E5%A1%94%E6%98%8E%E6%98%8E%E6%9C%89%E5%85%AB%E5%B1%82.md"
     },
     {
       "title": "第054章_门从外面锁上了",
       "file": "第054章_门从外面锁上了.md",
-      "path": "books/祖师殿里供的是我/正文/第054章_门从外面锁上了.md"
+      "path": "books/祖师殿里供的是我/正文/第054章_门从外面锁上了.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC054%E7%AB%A0_%E9%97%A8%E4%BB%8E%E5%A4%96%E9%9D%A2%E9%94%81%E4%B8%8A%E4%BA%86.md"
     },
     {
       "title": "第055章_先救你的对手",
       "file": "第055章_先救你的对手.md",
-      "path": "books/祖师殿里供的是我/正文/第055章_先救你的对手.md"
+      "path": "books/祖师殿里供的是我/正文/第055章_先救你的对手.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC055%E7%AB%A0_%E5%85%88%E6%95%91%E4%BD%A0%E7%9A%84%E5%AF%B9%E6%89%8B.md"
     },
     {
       "title": "第056章_一剑分七阵",
       "file": "第056章_一剑分七阵.md",
-      "path": "books/祖师殿里供的是我/正文/第056章_一剑分七阵.md"
+      "path": "books/祖师殿里供的是我/正文/第056章_一剑分七阵.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC056%E7%AB%A0_%E4%B8%80%E5%89%91%E5%88%86%E4%B8%83%E9%98%B5.md"
     },
     {
       "title": "第057章_林照秋来过这里",
       "file": "第057章_林照秋来过这里.md",
-      "path": "books/祖师殿里供的是我/正文/第057章_林照秋来过这里.md"
+      "path": "books/祖师殿里供的是我/正文/第057章_林照秋来过这里.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC057%E7%AB%A0_%E6%9E%97%E7%85%A7%E7%A7%8B%E6%9D%A5%E8%BF%87%E8%BF%99%E9%87%8C.md"
     },
     {
       "title": "第058章_宁小川再握剑",
       "file": "第058章_宁小川再握剑.md",
-      "path": "books/祖师殿里供的是我/正文/第058章_宁小川再握剑.md"
+      "path": "books/祖师殿里供的是我/正文/第058章_宁小川再握剑.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC058%E7%AB%A0_%E5%AE%81%E5%B0%8F%E5%B7%9D%E5%86%8D%E6%8F%A1%E5%89%91.md"
     },
     {
       "title": "第059章_淬体六重",
       "file": "第059章_淬体六重.md",
-      "path": "books/祖师殿里供的是我/正文/第059章_淬体六重.md"
+      "path": "books/祖师殿里供的是我/正文/第059章_淬体六重.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC059%E7%AB%A0_%E6%B7%AC%E4%BD%93%E5%85%AD%E9%87%8D.md"
     },
     {
       "title": "第060章_第八盏灯",
       "file": "第060章_第八盏灯.md",
-      "path": "books/祖师殿里供的是我/正文/第060章_第八盏灯.md"
+      "path": "books/祖师殿里供的是我/正文/第060章_第八盏灯.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC060%E7%AB%A0_%E7%AC%AC%E5%85%AB%E7%9B%8F%E7%81%AF.md"
     },
     {
       "title": "第061章_六峰都想要陆沉",
       "file": "第061章_六峰都想要陆沉.md",
-      "path": "books/祖师殿里供的是我/正文/第061章_六峰都想要陆沉.md"
+      "path": "books/祖师殿里供的是我/正文/第061章_六峰都想要陆沉.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC061%E7%AB%A0_%E5%85%AD%E5%B3%B0%E9%83%BD%E6%83%B3%E8%A6%81%E9%99%86%E6%B2%89.md"
     },
     {
       "title": "第062章_谁敢替祖师收徒",
       "file": "第062章_谁敢替祖师收徒.md",
-      "path": "books/祖师殿里供的是我/正文/第062章_谁敢替祖师收徒.md"
+      "path": "books/祖师殿里供的是我/正文/第062章_谁敢替祖师收徒.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC062%E7%AB%A0_%E8%B0%81%E6%95%A2%E6%9B%BF%E7%A5%96%E5%B8%88%E6%94%B6%E5%BE%92.md"
     },
     {
       "title": "第063章_剑峰三问",
       "file": "第063章_剑峰三问.md",
-      "path": "books/祖师殿里供的是我/正文/第063章_剑峰三问.md"
+      "path": "books/祖师殿里供的是我/正文/第063章_剑峰三问.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC063%E7%AB%A0_%E5%89%91%E5%B3%B0%E4%B8%89%E9%97%AE.md"
     },
     {
       "title": "第064章_苏晚照欠的一顿饭",
       "file": "第064章_苏晚照欠的一顿饭.md",
-      "path": "books/祖师殿里供的是我/正文/第064章_苏晚照欠的一顿饭.md"
+      "path": "books/祖师殿里供的是我/正文/第064章_苏晚照欠的一顿饭.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC064%E7%AB%A0_%E8%8B%8F%E6%99%9A%E7%85%A7%E6%AC%A0%E7%9A%84%E4%B8%80%E9%A1%BF%E9%A5%AD.md"
     },
     {
       "title": "第065章_失踪的十二名外门弟子",
       "file": "第065章_失踪的十二名外门弟子.md",
-      "path": "books/祖师殿里供的是我/正文/第065章_失踪的十二名外门弟子.md"
+      "path": "books/祖师殿里供的是我/正文/第065章_失踪的十二名外门弟子.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC065%E7%AB%A0_%E5%A4%B1%E8%B8%AA%E7%9A%84%E5%8D%81%E4%BA%8C%E5%90%8D%E5%A4%96%E9%97%A8%E5%BC%9F%E5%AD%90.md"
     },
     {
       "title": "第066章_黑山任务",
       "file": "第066章_黑山任务.md",
-      "path": "books/祖师殿里供的是我/正文/第066章_黑山任务.md"
+      "path": "books/祖师殿里供的是我/正文/第066章_黑山任务.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC066%E7%AB%A0_%E9%BB%91%E5%B1%B1%E4%BB%BB%E5%8A%A1.md"
     },
     {
       "title": "第067章_五个人一支队",
       "file": "第067章_五个人一支队.md",
-      "path": "books/祖师殿里供的是我/正文/第067章_五个人一支队.md"
+      "path": "books/祖师殿里供的是我/正文/第067章_五个人一支队.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC067%E7%AB%A0_%E4%BA%94%E4%B8%AA%E4%BA%BA%E4%B8%80%E6%94%AF%E9%98%9F.md"
     },
     {
       "title": "第068章_第一场伏杀",
       "file": "第068章_第一场伏杀.md",
-      "path": "books/祖师殿里供的是我/正文/第068章_第一场伏杀.md"
+      "path": "books/祖师殿里供的是我/正文/第068章_第一场伏杀.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC068%E7%AB%A0_%E7%AC%AC%E4%B8%80%E5%9C%BA%E4%BC%8F%E6%9D%80.md"
     },
     {
       "title": "第069章_被抹掉的补给路",
       "file": "第069章_被抹掉的补给路.md",
-      "path": "books/祖师殿里供的是我/正文/第069章_被抹掉的补给路.md"
+      "path": "books/祖师殿里供的是我/正文/第069章_被抹掉的补给路.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC069%E7%AB%A0_%E8%A2%AB%E6%8A%B9%E6%8E%89%E7%9A%84%E8%A1%A5%E7%BB%99%E8%B7%AF.md"
     },
     {
       "title": "第070章_断云驿站",
       "file": "第070章_断云驿站.md",
-      "path": "books/祖师殿里供的是我/正文/第070章_断云驿站.md"
+      "path": "books/祖师殿里供的是我/正文/第070章_断云驿站.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC070%E7%AB%A0_%E6%96%AD%E4%BA%91%E9%A9%BF%E7%AB%99.md"
     },
     {
       "title": "第071章_地窖里的人",
       "file": "第071章_地窖里的人.md",
-      "path": "books/祖师殿里供的是我/正文/第071章_地窖里的人.md"
+      "path": "books/祖师殿里供的是我/正文/第071章_地窖里的人.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC071%E7%AB%A0_%E5%9C%B0%E7%AA%96%E9%87%8C%E7%9A%84%E4%BA%BA.md"
     },
     {
       "title": "第072章_黑山盟不做死人买卖",
       "file": "第072章_黑山盟不做死人买卖.md",
-      "path": "books/祖师殿里供的是我/正文/第072章_黑山盟不做死人买卖.md"
+      "path": "books/祖师殿里供的是我/正文/第072章_黑山盟不做死人买卖.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC072%E7%AB%A0_%E9%BB%91%E5%B1%B1%E7%9B%9F%E4%B8%8D%E5%81%9A%E6%AD%BB%E4%BA%BA%E4%B9%B0%E5%8D%96.md"
     },
     {
       "title": "第073章_霍九山还活着",
       "file": "第073章_霍九山还活着.md",
-      "path": "books/祖师殿里供的是我/正文/第073章_霍九山还活着.md"
+      "path": "books/祖师殿里供的是我/正文/第073章_霍九山还活着.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC073%E7%AB%A0_%E9%9C%8D%E4%B9%9D%E5%B1%B1%E8%BF%98%E6%B4%BB%E7%9D%80.md"
     },
     {
       "title": "第074章_林照秋没有叛宗",
       "file": "第074章_林照秋没有叛宗.md",
-      "path": "books/祖师殿里供的是我/正文/第074章_林照秋没有叛宗.md"
+      "path": "books/祖师殿里供的是我/正文/第074章_林照秋没有叛宗.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC074%E7%AB%A0_%E6%9E%97%E7%85%A7%E7%A7%8B%E6%B2%A1%E6%9C%89%E5%8F%9B%E5%AE%97.md"
     },
     {
       "title": "第075章_倒悬一剑",
       "file": "第075章_倒悬一剑.md",
-      "path": "books/祖师殿里供的是我/正文/第075章_倒悬一剑.md"
+      "path": "books/祖师殿里供的是我/正文/第075章_倒悬一剑.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC075%E7%AB%A0_%E5%80%92%E6%82%AC%E4%B8%80%E5%89%91.md"
     },
     {
       "title": "第076章_丹峰姑娘也会杀人",
       "file": "第076章_丹峰姑娘也会杀人.md",
-      "path": "books/祖师殿里供的是我/正文/第076章_丹峰姑娘也会杀人.md"
+      "path": "books/祖师殿里供的是我/正文/第076章_丹峰姑娘也会杀人.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC076%E7%AB%A0_%E4%B8%B9%E5%B3%B0%E5%A7%91%E5%A8%98%E4%B9%9F%E4%BC%9A%E6%9D%80%E4%BA%BA.md"
     },
     {
       "title": "第077章_旧驿反杀",
       "file": "第077章_旧驿反杀.md",
-      "path": "books/祖师殿里供的是我/正文/第077章_旧驿反杀.md"
+      "path": "books/祖师殿里供的是我/正文/第077章_旧驿反杀.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC077%E7%AB%A0_%E6%97%A7%E9%A9%BF%E5%8F%8D%E6%9D%80.md"
     },
     {
       "title": "第078章_赵承武送来的路",
       "file": "第078章_赵承武送来的路.md",
-      "path": "books/祖师殿里供的是我/正文/第078章_赵承武送来的路.md"
+      "path": "books/祖师殿里供的是我/正文/第078章_赵承武送来的路.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC078%E7%AB%A0_%E8%B5%B5%E6%89%BF%E6%AD%A6%E9%80%81%E6%9D%A5%E7%9A%84%E8%B7%AF.md"
     },
     {
       "title": "第079章_信的后半页",
       "file": "第079章_信的后半页.md",
-      "path": "books/祖师殿里供的是我/正文/第079章_信的后半页.md"
+      "path": "books/祖师殿里供的是我/正文/第079章_信的后半页.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC079%E7%AB%A0_%E4%BF%A1%E7%9A%84%E5%90%8E%E5%8D%8A%E9%A1%B5.md"
     },
     {
       "title": "第080章_勿信青岳手中宗主印",
       "file": "第080章_勿信青岳手中宗主印.md",
-      "path": "books/祖师殿里供的是我/正文/第080章_勿信青岳手中宗主印.md"
+      "path": "books/祖师殿里供的是我/正文/第080章_勿信青岳手中宗主印.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/%E6%AD%A3%E6%96%87/%E7%AC%AC080%E7%AB%A0_%E5%8B%BF%E4%BF%A1%E9%9D%92%E5%B2%B3%E6%89%8B%E4%B8%AD%E5%AE%97%E4%B8%BB%E5%8D%B0.md"
+    }
+  ],
+  "chapterCount": 80,
+  "packSize": 80,
+  "packs": [
+    {
+      "start": 1,
+      "end": 80,
+      "path": "books/祖师殿里供的是我/packs/pack_0001_0080.json",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%A5%96%E5%B8%88%E6%AE%BF%E9%87%8C%E4%BE%9B%E7%9A%84%E6%98%AF%E6%88%91/packs/pack_0001_0080.json",
+      "bytes": 460046,
+      "sha256": "2637ace9eeb8bf38913e2577221113fbbcf4daf8728789b53121427ca32ecc92"
     }
   ]
 }
