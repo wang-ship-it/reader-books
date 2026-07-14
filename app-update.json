@@ -1,11 +1,11 @@
 {
-  "versionCode": 20,
-  "versionName": "0.4.5",
+  "versionCode": 21,
+  "versionName": "0.4.6",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "58b946b1fd36653f8f60ae909df81d534dbff7e19e5abce44d4c920bd34a8371",
+  "sha256": "4b55e056b23f7192f41403989a6ac89ca0a8cac60733ad6911a1cdf4a8998200",
   "notes": [
-    "更换为《九劫剑骨》正式封面，首页和详情页显示真实封面图。",
-    "内置《九劫剑骨》1-100章，本地安装后可直接阅读。",
-    "同步章节更新包 manifest v5，前30章已按正式章节体量加厚。"
+    "书架升级为双书模式，《九劫剑骨》和《祖师殿里供的是我》在同一个 App 内阅读。",
+    "新增《祖师殿里供的是我》第1—80章在线更新与独立阅读进度。",
+    "APK只保留两本书的封面，正文和漫画不再打包，安装包缩小至约5.5 MB。"
   ]
 }
