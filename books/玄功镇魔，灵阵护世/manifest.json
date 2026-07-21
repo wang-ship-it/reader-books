@@ -1,0 +1,575 @@
+{
+  "book": "玄功镇魔，灵阵护世",
+  "version": 1,
+  "baseUrl": "https://wang-ship-it.github.io/reader-books/",
+  "cover": "books/玄功镇魔，灵阵护世/cover.png",
+  "alternateCovers": [
+    "books/玄功镇魔，灵阵护世/cover-alt.png"
+  ],
+  "chapterCount": 50,
+  "packSize": 50,
+  "chapters": [
+    {
+      "title": "第001章_血灯照矿山",
+      "file": "第001章_血灯照矿山.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第001章_血灯照矿山.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC001%E7%AB%A0_%E8%A1%80%E7%81%AF%E7%85%A7%E7%9F%BF%E5%B1%B1.md"
+    },
+    {
+      "title": "第002章_山河镇狱功",
+      "file": "第002章_山河镇狱功.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第002章_山河镇狱功.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC002%E7%AB%A0_%E5%B1%B1%E6%B2%B3%E9%95%87%E7%8B%B1%E5%8A%9F.md"
+    },
+    {
+      "title": "第003章_夜入黑石矿",
+      "file": "第003章_夜入黑石矿.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第003章_夜入黑石矿.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC003%E7%AB%A0_%E5%A4%9C%E5%85%A5%E9%BB%91%E7%9F%B3%E7%9F%BF.md"
+    },
+    {
+      "title": "第004章_矿井里的活人",
+      "file": "第004章_矿井里的活人.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第004章_矿井里的活人.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC004%E7%AB%A0_%E7%9F%BF%E4%BA%95%E9%87%8C%E7%9A%84%E6%B4%BB%E4%BA%BA.md"
+    },
+    {
+      "title": "第005章_陈九的血手",
+      "file": "第005章_陈九的血手.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第005章_陈九的血手.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC005%E7%AB%A0_%E9%99%88%E4%B9%9D%E7%9A%84%E8%A1%80%E6%89%8B.md"
+    },
+    {
+      "title": "第006章_一拳断血槽",
+      "file": "第006章_一拳断血槽.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第006章_一拳断血槽.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC006%E7%AB%A0_%E4%B8%80%E6%8B%B3%E6%96%AD%E8%A1%80%E6%A7%BD.md"
+    },
+    {
+      "title": "第007章_藏锋入镇",
+      "file": "第007章_藏锋入镇.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第007章_藏锋入镇.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC007%E7%AB%A0_%E8%97%8F%E9%94%8B%E5%85%A5%E9%95%87.md"
+    },
+    {
+      "title": "第008章_父亲留下的阵盘",
+      "file": "第008章_父亲留下的阵盘.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第008章_父亲留下的阵盘.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC008%E7%AB%A0_%E7%88%B6%E4%BA%B2%E7%95%99%E4%B8%8B%E7%9A%84%E9%98%B5%E7%9B%98.md"
+    },
+    {
+      "title": "第009章_死者要有名字",
+      "file": "第009章_死者要有名字.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第009章_死者要有名字.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC009%E7%AB%A0_%E6%AD%BB%E8%80%85%E8%A6%81%E6%9C%89%E5%90%8D%E5%AD%97.md"
+    },
+    {
+      "title": "第010章_青石镇测脉",
+      "file": "第010章_青石镇测脉.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第010章_青石镇测脉.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC010%E7%AB%A0_%E9%9D%92%E7%9F%B3%E9%95%87%E6%B5%8B%E8%84%89.md"
+    },
+    {
+      "title": "第011章_山路截杀",
+      "file": "第011章_山路截杀.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第011章_山路截杀.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC011%E7%AB%A0_%E5%B1%B1%E8%B7%AF%E6%88%AA%E6%9D%80.md"
+    },
+    {
+      "title": "第012章_开脉如开山",
+      "file": "第012章_开脉如开山.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第012章_开脉如开山.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC012%E7%AB%A0_%E5%BC%80%E8%84%89%E5%A6%82%E5%BC%80%E5%B1%B1.md"
+    },
+    {
+      "title": "第013章_枯井下的魔声",
+      "file": "第013章_枯井下的魔声.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第013章_枯井下的魔声.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC013%E7%AB%A0_%E6%9E%AF%E4%BA%95%E4%B8%8B%E7%9A%84%E9%AD%94%E5%A3%B0.md"
+    },
+    {
+      "title": "第014章_今夜守镇",
+      "file": "第014章_今夜守镇.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第014章_今夜守镇.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC014%E7%AB%A0_%E4%BB%8A%E5%A4%9C%E5%AE%88%E9%95%87.md"
+    },
+    {
+      "title": "第015章_少年出青石",
+      "file": "第015章_少年出青石.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第015章_少年出青石.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC015%E7%AB%A0_%E5%B0%91%E5%B9%B4%E5%87%BA%E9%9D%92%E7%9F%B3.md"
+    },
+    {
+      "title": "第016章_青岳郡城",
+      "file": "第016章_青岳郡城.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第016章_青岳郡城.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC016%E7%AB%A0_%E9%9D%92%E5%B2%B3%E9%83%A1%E5%9F%8E.md"
+    },
+    {
+      "title": "第017章_三关初试",
+      "file": "第017章_三关初试.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第017章_三关初试.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC017%E7%AB%A0_%E4%B8%89%E5%85%B3%E5%88%9D%E8%AF%95.md"
+    },
+    {
+      "title": "第018章_韩铁衣",
+      "file": "第018章_韩铁衣.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第018章_韩铁衣.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC018%E7%AB%A0_%E9%9F%A9%E9%93%81%E8%A1%A3.md"
+    },
+    {
+      "title": "第019章_秦红缨的一枪",
+      "file": "第019章_秦红缨的一枪.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第019章_秦红缨的一枪.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC019%E7%AB%A0_%E7%A7%A6%E7%BA%A2%E7%BC%A8%E7%9A%84%E4%B8%80%E6%9E%AA.md"
+    },
+    {
+      "title": "第020章_破军刀下",
+      "file": "第020章_破军刀下.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第020章_破军刀下.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC020%E7%AB%A0_%E7%A0%B4%E5%86%9B%E5%88%80%E4%B8%8B.md"
+    },
+    {
+      "title": "第021章_山路试炼",
+      "file": "第021章_山路试炼.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第021章_山路试炼.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC021%E7%AB%A0_%E5%B1%B1%E8%B7%AF%E8%AF%95%E7%82%BC.md"
+    },
+    {
+      "title": "第022章_黑风谷兽潮",
+      "file": "第022章_黑风谷兽潮.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第022章_黑风谷兽潮.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC022%E7%AB%A0_%E9%BB%91%E9%A3%8E%E8%B0%B7%E5%85%BD%E6%BD%AE.md"
+    },
+    {
+      "title": "第023章_少了七个人",
+      "file": "第023章_少了七个人.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第023章_少了七个人.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC023%E7%AB%A0_%E5%B0%91%E4%BA%86%E4%B8%83%E4%B8%AA%E4%BA%BA.md"
+    },
+    {
+      "title": "第024章_最后一块山河令",
+      "file": "第024章_最后一块山河令.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第024章_最后一块山河令.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC024%E7%AB%A0_%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E5%B1%B1%E6%B2%B3%E4%BB%A4.md"
+    },
+    {
+      "title": "第025章_山河学院",
+      "file": "第025章_山河学院.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第025章_山河学院.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC025%E7%AB%A0_%E5%B1%B1%E6%B2%B3%E5%AD%A6%E9%99%A2.md"
+    },
+    {
+      "title": "第026章_武院丙七班",
+      "file": "第026章_武院丙七班.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第026章_武院丙七班.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC026%E7%AB%A0_%E6%AD%A6%E9%99%A2%E4%B8%99%E4%B8%83%E7%8F%AD.md"
+    },
+    {
+      "title": "第027章_第一堂实战课",
+      "file": "第027章_第一堂实战课.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第027章_第一堂实战课.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC027%E7%AB%A0_%E7%AC%AC%E4%B8%80%E5%A0%82%E5%AE%9E%E6%88%98%E8%AF%BE.md"
+    },
+    {
+      "title": "第028章_残功不是废功",
+      "file": "第028章_残功不是废功.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第028章_残功不是废功.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC028%E7%AB%A0_%E6%AE%8B%E5%8A%9F%E4%B8%8D%E6%98%AF%E5%BA%9F%E5%8A%9F.md"
+    },
+    {
+      "title": "第029章_丙班夺旗战",
+      "file": "第029章_丙班夺旗战.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第029章_丙班夺旗战.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC029%E7%AB%A0_%E4%B8%99%E7%8F%AD%E5%A4%BA%E6%97%97%E6%88%98.md"
+    },
+    {
+      "title": "第030章_失踪者的令牌",
+      "file": "第030章_失踪者的令牌.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第030章_失踪者的令牌.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC030%E7%AB%A0_%E5%A4%B1%E8%B8%AA%E8%80%85%E7%9A%84%E4%BB%A4%E7%89%8C.md"
+    },
+    {
+      "title": "第031章_药谷任务",
+      "file": "第031章_药谷任务.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第031章_药谷任务.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC031%E7%AB%A0_%E8%8D%AF%E8%B0%B7%E4%BB%BB%E5%8A%A1.md"
+    },
+    {
+      "title": "第032章_林中的魔血",
+      "file": "第032章_林中的魔血.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第032章_林中的魔血.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC032%E7%AB%A0_%E6%9E%97%E4%B8%AD%E7%9A%84%E9%AD%94%E8%A1%80.md"
+    },
+    {
+      "title": "第033章_无生教的影子",
+      "file": "第033章_无生教的影子.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第033章_无生教的影子.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC033%E7%AB%A0_%E6%97%A0%E7%94%9F%E6%95%99%E7%9A%84%E5%BD%B1%E5%AD%90.md"
+    },
+    {
+      "title": "第034章_有证据才有结论",
+      "file": "第034章_有证据才有结论.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第034章_有证据才有结论.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC034%E7%AB%A0_%E6%9C%89%E8%AF%81%E6%8D%AE%E6%89%8D%E6%9C%89%E7%BB%93%E8%AE%BA.md"
+    },
+    {
+      "title": "第035章_阵院公开课",
+      "file": "第035章_阵院公开课.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第035章_阵院公开课.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC035%E7%AB%A0_%E9%98%B5%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE.md"
+    },
+    {
+      "title": "第036章_荒塔开门",
+      "file": "第036章_荒塔开门.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第036章_荒塔开门.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC036%E7%AB%A0_%E8%8D%92%E5%A1%94%E5%BC%80%E9%97%A8.md"
+    },
+    {
+      "title": "第037章_夜半九钟",
+      "file": "第037章_夜半九钟.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第037章_夜半九钟.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC037%E7%AB%A0_%E5%A4%9C%E5%8D%8A%E4%B9%9D%E9%92%9F.md"
+    },
+    {
+      "title": "第038章_看不懂也能记住",
+      "file": "第038章_看不懂也能记住.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第038章_看不懂也能记住.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC038%E7%AB%A0_%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B9%9F%E8%83%BD%E8%AE%B0%E4%BD%8F.md"
+    },
+    {
+      "title": "第039章_第一层崩塌",
+      "file": "第039章_第一层崩塌.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第039章_第一层崩塌.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC039%E7%AB%A0_%E7%AC%AC%E4%B8%80%E5%B1%82%E5%B4%A9%E5%A1%8C.md"
+    },
+    {
+      "title": "第040章_周藏锋的声音",
+      "file": "第040章_周藏锋的声音.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第040章_周藏锋的声音.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC040%E7%AB%A0_%E5%91%A8%E8%97%8F%E9%94%8B%E7%9A%84%E5%A3%B0%E9%9F%B3.md"
+    },
+    {
+      "title": "第041章_天衍阵种",
+      "file": "第041章_天衍阵种.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第041章_天衍阵种.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC041%E7%AB%A0_%E5%A4%A9%E8%A1%8D%E9%98%B5%E7%A7%8D.md"
+    },
+    {
+      "title": "第042章_第一次识纹",
+      "file": "第042章_第一次识纹.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第042章_第一次识纹.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC042%E7%AB%A0_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%86%E7%BA%B9.md"
+    },
+    {
+      "title": "第043章_乾坤阵解",
+      "file": "第043章_乾坤阵解.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第043章_乾坤阵解.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC043%E7%AB%A0_%E4%B9%BE%E5%9D%A4%E9%98%B5%E8%A7%A3.md"
+    },
+    {
+      "title": "第044章_一千次落笔",
+      "file": "第044章_一千次落笔.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第044章_一千次落笔.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC044%E7%AB%A0_%E4%B8%80%E5%8D%83%E6%AC%A1%E8%90%BD%E7%AC%94.md"
+    },
+    {
+      "title": "第045章_武道不能停",
+      "file": "第045章_武道不能停.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第045章_武道不能停.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC045%E7%AB%A0_%E6%AD%A6%E9%81%93%E4%B8%8D%E8%83%BD%E5%81%9C.md"
+    },
+    {
+      "title": "第046章_第一张阵符",
+      "file": "第046章_第一张阵符.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第046章_第一张阵符.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC046%E7%AB%A0_%E7%AC%AC%E4%B8%80%E5%BC%A0%E9%98%B5%E7%AC%A6.md"
+    },
+    {
+      "title": "第047章_库房里的旧魔纹",
+      "file": "第047章_库房里的旧魔纹.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第047章_库房里的旧魔纹.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC047%E7%AB%A0_%E5%BA%93%E6%88%BF%E9%87%8C%E7%9A%84%E6%97%A7%E9%AD%94%E7%BA%B9.md"
+    },
+    {
+      "title": "第048章_藏在地下的阵眼",
+      "file": "第048章_藏在地下的阵眼.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第048章_藏在地下的阵眼.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC048%E7%AB%A0_%E8%97%8F%E5%9C%A8%E5%9C%B0%E4%B8%8B%E7%9A%84%E9%98%B5%E7%9C%BC.md"
+    },
+    {
+      "title": "第049章_西院夜袭",
+      "file": "第049章_西院夜袭.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第049章_西院夜袭.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC049%E7%AB%A0_%E8%A5%BF%E9%99%A2%E5%A4%9C%E8%A2%AD.md"
+    },
+    {
+      "title": "第050章_阵武初鸣",
+      "file": "第050章_阵武初鸣.md",
+      "path": "books/玄功镇魔，灵阵护世/正文/第050章_阵武初鸣.md",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%AD%A3%E6%96%87/%E7%AC%AC050%E7%AB%A0_%E9%98%B5%E6%AD%A6%E5%88%9D%E9%B8%A3.md"
+    }
+  ],
+  "packs": [
+    {
+      "start": 1,
+      "end": 50,
+      "path": "books/玄功镇魔，灵阵护世/packs/pack_0001_0050.json",
+      "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/packs/pack_0001_0050.json",
+      "bytes": 512440,
+      "sha256": "b86b923464b1ffbd80cb86ca3b6f898a282e9e132355eaa51ed2eb37e0c5f8fa"
+    }
+  ],
+  "comicIssueCount": 8,
+  "comicPageCount": 40,
+  "comics": [
+    {
+      "title": "第001话 血灯照矿山",
+      "path": "books/玄功镇魔，灵阵护世/漫画/第001话_血灯照矿山",
+      "pages": [
+        {
+          "file": "001_七声矿钟.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第001话_血灯照矿山/001_七声矿钟.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC001%E8%AF%9D_%E8%A1%80%E7%81%AF%E7%85%A7%E7%9F%BF%E5%B1%B1/001_%E4%B8%83%E5%A3%B0%E7%9F%BF%E9%92%9F.png"
+        },
+        {
+          "file": "002_尸体没有蝠伤.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第001话_血灯照矿山/002_尸体没有蝠伤.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC001%E8%AF%9D_%E8%A1%80%E7%81%AF%E7%85%A7%E7%9F%BF%E5%B1%B1/002_%E5%B0%B8%E4%BD%93%E6%B2%A1%E6%9C%89%E8%9D%A0%E4%BC%A4.png"
+        },
+        {
+          "file": "003_沉山桩与药铺门.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第001话_血灯照矿山/003_沉山桩与药铺门.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC001%E8%AF%9D_%E8%A1%80%E7%81%AF%E7%85%A7%E7%9F%BF%E5%B1%B1/003_%E6%B2%89%E5%B1%B1%E6%A1%A9%E4%B8%8E%E8%8D%AF%E9%93%BA%E9%97%A8.png"
+        },
+        {
+          "file": "004_十九个人.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第001话_血灯照矿山/004_十九个人.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC001%E8%AF%9D_%E8%A1%80%E7%81%AF%E7%85%A7%E7%9F%BF%E5%B1%B1/004_%E5%8D%81%E4%B9%9D%E4%B8%AA%E4%BA%BA.png"
+        },
+        {
+          "file": "005_矿里还有活人.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第001话_血灯照矿山/005_矿里还有活人.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC001%E8%AF%9D_%E8%A1%80%E7%81%AF%E7%85%A7%E7%9F%BF%E5%B1%B1/005_%E7%9F%BF%E9%87%8C%E8%BF%98%E6%9C%89%E6%B4%BB%E4%BA%BA.png"
+        }
+      ]
+    },
+    {
+      "title": "第002话 山河镇狱功",
+      "path": "books/玄功镇魔，灵阵护世/漫画/第002话_山河镇狱功",
+      "pages": [
+        {
+          "file": "001_负山百息.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第002话_山河镇狱功/001_负山百息.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC002%E8%AF%9D_%E5%B1%B1%E6%B2%B3%E9%95%87%E7%8B%B1%E5%8A%9F/001_%E8%B4%9F%E5%B1%B1%E7%99%BE%E6%81%AF.png"
+        },
+        {
+          "file": "002_第九拳.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第002话_山河镇狱功/002_第九拳.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC002%E8%AF%9D_%E5%B1%B1%E6%B2%B3%E9%95%87%E7%8B%B1%E5%8A%9F/002_%E7%AC%AC%E4%B9%9D%E6%8B%B3.png"
+        },
+        {
+          "file": "003_七个人的记录.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第002话_山河镇狱功/003_七个人的记录.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC002%E8%AF%9D_%E5%B1%B1%E6%B2%B3%E9%95%87%E7%8B%B1%E5%8A%9F/003_%E4%B8%83%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%AE%B0%E5%BD%95.png"
+        },
+        {
+          "file": "004_三处退路.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第002话_山河镇狱功/004_三处退路.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC002%E8%AF%9D_%E5%B1%B1%E6%B2%B3%E9%95%87%E7%8B%B1%E5%8A%9F/004_%E4%B8%89%E5%A4%84%E9%80%80%E8%B7%AF.png"
+        },
+        {
+          "file": "005_一白一红.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第002话_山河镇狱功/005_一白一红.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC002%E8%AF%9D_%E5%B1%B1%E6%B2%B3%E9%95%87%E7%8B%B1%E5%8A%9F/005_%E4%B8%80%E7%99%BD%E4%B8%80%E7%BA%A2.png"
+        }
+      ]
+    },
+    {
+      "title": "第003话 夜入黑石矿",
+      "path": "books/玄功镇魔，灵阵护世/漫画/第003话_夜入黑石矿",
+      "pages": [
+        {
+          "file": "001_红灯矿门.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第003话_夜入黑石矿/001_红灯矿门.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC003%E8%AF%9D_%E5%A4%9C%E5%85%A5%E9%BB%91%E7%9F%B3%E7%9F%BF/001_%E7%BA%A2%E7%81%AF%E7%9F%BF%E9%97%A8.png"
+        },
+        {
+          "file": "002_七双矿靴.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第003话_夜入黑石矿/002_七双矿靴.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC003%E8%AF%9D_%E5%A4%9C%E5%85%A5%E9%BB%91%E7%9F%B3%E7%9F%BF/002_%E4%B8%83%E5%8F%8C%E7%9F%BF%E9%9D%B4.png"
+        },
+        {
+          "file": "003_锁住退路.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第003话_夜入黑石矿/003_锁住退路.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC003%E8%AF%9D_%E5%A4%9C%E5%85%A5%E9%BB%91%E7%9F%B3%E7%9F%BF/003_%E9%94%81%E4%BD%8F%E9%80%80%E8%B7%AF.png"
+        },
+        {
+          "file": "004_七井现形.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第003话_夜入黑石矿/004_七井现形.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC003%E8%AF%9D_%E5%A4%9C%E5%85%A5%E9%BB%91%E7%9F%B3%E7%9F%BF/004_%E4%B8%83%E4%BA%95%E7%8E%B0%E5%BD%A2.png"
+        },
+        {
+          "file": "005_活血气味.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第003话_夜入黑石矿/005_活血气味.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC003%E8%AF%9D_%E5%A4%9C%E5%85%A5%E9%BB%91%E7%9F%B3%E7%9F%BF/005_%E6%B4%BB%E8%A1%80%E6%B0%94%E5%91%B3.png"
+        }
+      ]
+    },
+    {
+      "title": "第004话 矿井里的活人",
+      "path": "books/玄功镇魔，灵阵护世/漫画/第004话_矿井里的活人",
+      "pages": [
+        {
+          "file": "001_血囊弱点.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第004话_矿井里的活人/001_血囊弱点.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC004%E8%AF%9D_%E7%9F%BF%E4%BA%95%E9%87%8C%E7%9A%84%E6%B4%BB%E4%BA%BA/001_%E8%A1%80%E5%9B%8A%E5%BC%B1%E7%82%B9.png"
+        },
+        {
+          "file": "002_墙后的敲击.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第004话_矿井里的活人/002_墙后的敲击.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC004%E8%AF%9D_%E7%9F%BF%E4%BA%95%E9%87%8C%E7%9A%84%E6%B4%BB%E4%BA%BA/002_%E5%A2%99%E5%90%8E%E7%9A%84%E6%95%B2%E5%87%BB.png"
+        },
+        {
+          "file": "003_先救生者.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第004话_矿井里的活人/003_先救生者.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC004%E8%AF%9D_%E7%9F%BF%E4%BA%95%E9%87%8C%E7%9A%84%E6%B4%BB%E4%BA%BA/003_%E5%85%88%E6%95%91%E7%94%9F%E8%80%85.png"
+        },
+        {
+          "file": "004_今夜轮到许河.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第004话_矿井里的活人/004_今夜轮到许河.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC004%E8%AF%9D_%E7%9F%BF%E4%BA%95%E9%87%8C%E7%9A%84%E6%B4%BB%E4%BA%BA/004_%E4%BB%8A%E5%A4%9C%E8%BD%AE%E5%88%B0%E8%AE%B8%E6%B2%B3.png"
+        },
+        {
+          "file": "005_不是地下河.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第004话_矿井里的活人/005_不是地下河.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC004%E8%AF%9D_%E7%9F%BF%E4%BA%95%E9%87%8C%E7%9A%84%E6%B4%BB%E4%BA%BA/005_%E4%B8%8D%E6%98%AF%E5%9C%B0%E4%B8%8B%E6%B2%B3.png"
+        }
+      ]
+    },
+    {
+      "title": "第005话 陈九的血手",
+      "path": "books/玄功镇魔，灵阵护世/漫画/第005话_陈九的血手",
+      "pages": [
+        {
+          "file": "001_血槽石厅.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第005话_陈九的血手/001_血槽石厅.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC005%E8%AF%9D_%E9%99%88%E4%B9%9D%E7%9A%84%E8%A1%80%E6%89%8B/001_%E8%A1%80%E6%A7%BD%E7%9F%B3%E5%8E%85.png"
+        },
+        {
+          "file": "002_血手开战.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第005话_陈九的血手/002_血手开战.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC005%E8%AF%9D_%E9%99%88%E4%B9%9D%E7%9A%84%E8%A1%80%E6%89%8B/002_%E8%A1%80%E6%89%8B%E5%BC%80%E6%88%98.png"
+        },
+        {
+          "file": "003_断管.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第005话_陈九的血手/003_断管.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC005%E8%AF%9D_%E9%99%88%E4%B9%9D%E7%9A%84%E8%A1%80%E6%89%8B/003_%E6%96%AD%E7%AE%A1.png"
+        },
+        {
+          "file": "004_死者人脸.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第005话_陈九的血手/004_死者人脸.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC005%E8%AF%9D_%E9%99%88%E4%B9%9D%E7%9A%84%E8%A1%80%E6%89%8B/004_%E6%AD%BB%E8%80%85%E4%BA%BA%E8%84%B8.png"
+        },
+        {
+          "file": "005_吞下骨哨.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第005话_陈九的血手/005_吞下骨哨.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC005%E8%AF%9D_%E9%99%88%E4%B9%9D%E7%9A%84%E8%A1%80%E6%89%8B/005_%E5%90%9E%E4%B8%8B%E9%AA%A8%E5%93%A8.png"
+        }
+      ]
+    },
+    {
+      "title": "第006话 一拳断血槽",
+      "path": "books/玄功镇魔，灵阵护世/漫画/第006话_一拳断血槽",
+      "pages": [
+        {
+          "file": "001_血索追命.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第006话_一拳断血槽/001_血索追命.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC006%E8%AF%9D_%E4%B8%80%E6%8B%B3%E6%96%AD%E8%A1%80%E6%A7%BD/001_%E8%A1%80%E7%B4%A2%E8%BF%BD%E5%91%BD.png"
+        },
+        {
+          "file": "002_左槽.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第006话_一拳断血槽/002_左槽.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC006%E8%AF%9D_%E4%B8%80%E6%8B%B3%E6%96%AD%E8%A1%80%E6%A7%BD/002_%E5%B7%A6%E6%A7%BD.png"
+        },
+        {
+          "file": "003_三拳断槽.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第006话_一拳断血槽/003_三拳断槽.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC006%E8%AF%9D_%E4%B8%80%E6%8B%B3%E6%96%AD%E8%A1%80%E6%A7%BD/003_%E4%B8%89%E6%8B%B3%E6%96%AD%E6%A7%BD.png"
+        },
+        {
+          "file": "004_铁链生擒.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第006话_一拳断血槽/004_铁链生擒.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC006%E8%AF%9D_%E4%B8%80%E6%8B%B3%E6%96%AD%E8%A1%80%E6%A7%BD/004_%E9%93%81%E9%93%BE%E7%94%9F%E6%93%92.png"
+        },
+        {
+          "file": "005_它已经醒了.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第006话_一拳断血槽/005_它已经醒了.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC006%E8%AF%9D_%E4%B8%80%E6%8B%B3%E6%96%AD%E8%A1%80%E6%A7%BD/005_%E5%AE%83%E5%B7%B2%E7%BB%8F%E9%86%92%E4%BA%86.png"
+        }
+      ]
+    },
+    {
+      "title": "第007话 藏锋入镇",
+      "path": "books/玄功镇魔，灵阵护世/漫画/第007话_藏锋入镇",
+      "pages": [
+        {
+          "file": "001_十二声剑鸣.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第007话_藏锋入镇/001_十二声剑鸣.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC007%E8%AF%9D_%E8%97%8F%E9%94%8B%E5%85%A5%E9%95%87/001_%E5%8D%81%E4%BA%8C%E5%A3%B0%E5%89%91%E9%B8%A3.png"
+        },
+        {
+          "file": "002_剩下的是净化.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第007话_藏锋入镇/002_剩下的是净化.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC007%E8%AF%9D_%E8%97%8F%E9%94%8B%E5%85%A5%E9%95%87/002_%E5%89%A9%E4%B8%8B%E7%9A%84%E6%98%AF%E5%87%80%E5%8C%96.png"
+        },
+        {
+          "file": "003_工棚救治.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第007话_藏锋入镇/003_工棚救治.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC007%E8%AF%9D_%E8%97%8F%E9%94%8B%E5%85%A5%E9%95%87/003_%E5%B7%A5%E6%A3%9A%E6%95%91%E6%B2%BB.png"
+        },
+        {
+          "file": "004_真正的夜班账.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第007话_藏锋入镇/004_真正的夜班账.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC007%E8%AF%9D_%E8%97%8F%E9%94%8B%E5%85%A5%E9%95%87/004_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%9C%E7%8F%AD%E8%B4%A6.png"
+        },
+        {
+          "file": "005_你没有破阵.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第007话_藏锋入镇/005_你没有破阵.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC007%E8%AF%9D_%E8%97%8F%E9%94%8B%E5%85%A5%E9%95%87/005_%E4%BD%A0%E6%B2%A1%E6%9C%89%E7%A0%B4%E9%98%B5.png"
+        }
+      ]
+    },
+    {
+      "title": "第008话 父亲留下的阵盘",
+      "path": "books/玄功镇魔，灵阵护世/漫画/第008话_父亲留下的阵盘",
+      "pages": [
+        {
+          "file": "001_伤者没有痊愈.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第008话_父亲留下的阵盘/001_伤者没有痊愈.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC008%E8%AF%9D_%E7%88%B6%E4%BA%B2%E7%95%99%E4%B8%8B%E7%9A%84%E9%98%B5%E7%9B%98/001_%E4%BC%A4%E8%80%85%E6%B2%A1%E6%9C%89%E7%97%8A%E6%84%88.png"
+        },
+        {
+          "file": "002_父亲唯一实物.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第008话_父亲留下的阵盘/002_父亲唯一实物.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC008%E8%AF%9D_%E7%88%B6%E4%BA%B2%E7%95%99%E4%B8%8B%E7%9A%84%E9%98%B5%E7%9B%98/002_%E7%88%B6%E4%BA%B2%E5%94%AF%E4%B8%80%E5%AE%9E%E7%89%A9.png"
+        },
+        {
+          "file": "003_无字阵盘.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第008话_父亲留下的阵盘/003_无字阵盘.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC008%E8%AF%9D_%E7%88%B6%E4%BA%B2%E7%95%99%E4%B8%8B%E7%9A%84%E9%98%B5%E7%9B%98/003_%E6%97%A0%E5%AD%97%E9%98%B5%E7%9B%98.png"
+        },
+        {
+          "file": "004_公平参加考核.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第008话_父亲留下的阵盘/004_公平参加考核.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC008%E8%AF%9D_%E7%88%B6%E4%BA%B2%E7%95%99%E4%B8%8B%E7%9A%84%E9%98%B5%E7%9B%98/004_%E5%85%AC%E5%B9%B3%E5%8F%82%E5%8A%A0%E8%80%83%E6%A0%B8.png"
+        },
+        {
+          "file": "005_先开第一脉.png",
+          "path": "books/玄功镇魔，灵阵护世/漫画/第008话_父亲留下的阵盘/005_先开第一脉.png",
+          "url": "https://wang-ship-it.github.io/reader-books/books/%E7%8E%84%E5%8A%9F%E9%95%87%E9%AD%94%EF%BC%8C%E7%81%B5%E9%98%B5%E6%8A%A4%E4%B8%96/%E6%BC%AB%E7%94%BB/%E7%AC%AC008%E8%AF%9D_%E7%88%B6%E4%BA%B2%E7%95%99%E4%B8%8B%E7%9A%84%E9%98%B5%E7%9B%98/005_%E5%85%88%E5%BC%80%E7%AC%AC%E4%B8%80%E8%84%89.png"
+        }
+      ]
+    }
+  ]
+}

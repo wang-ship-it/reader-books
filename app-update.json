@@ -1,11 +1,12 @@
 {
-  "versionCode": 21,
-  "versionName": "0.4.6",
+  "versionCode": 23,
+  "versionName": "0.4.8",
   "apkUrl": "https://raw.githubusercontent.com/wang-ship-it/reader-books/main/_apk/app-release.apk",
-  "sha256": "4b55e056b23f7192f41403989a6ac89ca0a8cac60733ad6911a1cdf4a8998200",
+  "sha256": "408b5f0f64df45cfd716f0d8be66a66d65012dfaa6bbda3e12626eba2caecae2",
   "notes": [
-    "书架升级为双书模式，《九劫剑骨》和《祖师殿里供的是我》在同一个 App 内阅读。",
-    "新增《祖师殿里供的是我》第1—80章在线更新与独立阅读进度。",
-    "APK只保留两本书的封面，正文和漫画不再打包，安装包缩小至约5.5 MB。"
+    "书架新增《玄功镇魔，灵阵护世》，现支持三本作品独立阅读进度。",
+    "新增《玄功镇魔，灵阵护世》第1—50章及第1—8话漫画远端同步。",
+    "新增远端漫画下载与本地连续阅读，安装包只保留三本书封面。",
+    "《玄功镇魔，灵阵护世》提供矿镇玄功主封面与山河灵阵备选封面。"
   ]
 }
